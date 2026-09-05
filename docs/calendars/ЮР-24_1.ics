@@ -1,0 +1,611 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SKP Schedule Sync//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание ЮР-24/1
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:skp-20260901-p3-ЮР-24/1-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T120000
+DTEND;TZID=Asia/Yekaterinburg:20260901T133000
+SUMMARY:Кураторский час[14]\nМалова М.С.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Малова М.С.\nАудитория: Ауд
+ итория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Кураторский час[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260901-p4-ЮР-24/1-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T140000
+DTEND;TZID=Asia/Yekaterinburg:20260901T153000
+SUMMARY:Гражданский процесс (Л)[11]\nКустикова 
+ И.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Гражданский процесс (Л)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260901-p6-ЮР-24/1-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T172500
+DTEND;TZID=Asia/Yekaterinburg:20260901T185500
+SUMMARY:Труд право Психология социально-пра
+ вовой деятельности (Лек) Граждан процесс
+  (Лек) Право социального обеспечения (Лек
+ ) Правовые осн соц раб с отд катег гражд (
+ Лек) Адм процесс (Лек) Физкультура (Пр) (Л)[
+ 14]\nСемёнова Т.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Труд право Психология социально-п
+ равовой деятельности (Лек) Граждан проце
+ сс (Лек) Право социального обеспечения (Л
+ ек) Правовые осн соц раб с отд катег граж
+ д (Лек) Адм процесс (Лек) Физкультура (Пр) (
+ Л)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p1-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T083000
+DTEND;TZID=Asia/Yekaterinburg:20260902T100000
+SUMMARY:Труд право (Л)[14]\nСемёнова Т.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Труд право (Л)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p2-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T101500
+DTEND;TZID=Asia/Yekaterinburg:20260902T114500
+SUMMARY:Труд право (Л)[5]\nСемёнова Т.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Труд право (Л)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p3-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T120000
+DTEND;TZID=Asia/Yekaterinburg:20260902T133000
+SUMMARY:Психология социально-правовой деяте
+ льности (Л)[7]\nМалова М.С.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Малова М.С.\nАудитория: Ауд
+ итория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Психология социально-правовой дея
+ тельности (Л)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p4-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T140000
+DTEND;TZID=Asia/Yekaterinburg:20260903T153000
+SUMMARY:Граждан процесс (Л)[5]\nКустикова И.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Граждан процесс (Л)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p5-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T154500
+DTEND;TZID=Asia/Yekaterinburg:20260903T171500
+SUMMARY:Граждан процесс (Л)[14]\nКустикова И.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ЮР-24/1\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Граждан процесс (Л)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p1-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T083000
+DTEND;TZID=Asia/Yekaterinburg:20260904T100000
+SUMMARY:Правовые осн соц раб с отд катег граж
+ д (Л)[5]\nСемёнова Т.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Правовые осн соц раб с отд катег гр
+ ажд (Л)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p2-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T101500
+DTEND;TZID=Asia/Yekaterinburg:20260904T114500
+SUMMARY:Психология социально-правовой деяте
+ льности (Л)[5]\nМалова М.С.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ЮР-24/1\nП
+ реподаватель: Малова М.С.\nАудитория: Ауд
+ итория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Психология социально-правовой дея
+ тельности (Л)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p3-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T120000
+DTEND;TZID=Asia/Yekaterinburg:20260904T133000
+SUMMARY:Граждан процесс (Л)[1]\nКустикова И.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Граждан процесс (Л)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p1-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Адм процесс (Л)[12]\nНигматулин А.В.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ЮР-24/1\nП
+ реподаватель: Нигматулин А.В.\nАудитория:
+  Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Адм процесс (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p2-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101500
+DTEND;TZID=Asia/Yekaterinburg:20260905T114500
+SUMMARY:Адм процесс (Л)[12]\nНигматулин А.В.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ЮР-24/1\nП
+ реподаватель: Нигматулин А.В.\nАудитория:
+  Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Адм процесс (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p3-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Адм процесс (П)[12]\nНигматулин А.В.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Нигматулин А.В.\nАудитория:
+  Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Адм процесс (П)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p4-ЮР-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T140000
+DTEND;TZID=Asia/Yekaterinburg:20260905T153000
+SUMMARY:Физкультура. Инструктаж (П)[1]\nПатрак
+ ов А.И.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физкультура. Инструктаж (П)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p4-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T140000
+DTEND;TZID=Asia/Yekaterinburg:20260907T153000
+SUMMARY:Право социального обеспечения (П)[1]\n
+ Семёнова Т.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Право социального обеспечения (П)[1
+ ]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p5-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T154500
+DTEND;TZID=Asia/Yekaterinburg:20260907T171500
+SUMMARY:БЖ (Л)[1]\nПатраков А.И.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ЮР-24/1\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:БЖ (Л)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p6-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T172500
+DTEND;TZID=Asia/Yekaterinburg:20260907T185500
+SUMMARY:Правовые осн соц раб с отд катег граж
+ д (П)[11]\nСемёнова Т.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Правовые осн соц раб с отд катег гр
+ ажд (П)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p4-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T140000
+DTEND;TZID=Asia/Yekaterinburg:20260908T153000
+SUMMARY:Право социального обеспечения (Л)[1]\n
+ Семёнова Т.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Право социального обеспечения (Л)[1
+ ]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p5-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T154500
+DTEND;TZID=Asia/Yekaterinburg:20260908T171500
+SUMMARY:Правовые осн соц раб с отд катег граж
+ д (П)[1]\nСемёнова Т.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Правовые осн соц раб с отд катег гр
+ ажд (П)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p6-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T172500
+DTEND;TZID=Asia/Yekaterinburg:20260908T185500
+SUMMARY:Труд право (Л)[14]\nСемёнова Т.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Труд право (Л)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p1-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Правовые осн соц раб с отд катег граж
+ д (Л)[7]\nСемёнова Т.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Правовые осн соц раб с отд катег гр
+ ажд (Л)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p2-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101500
+DTEND;TZID=Asia/Yekaterinburg:20260909T114500
+SUMMARY:Граждан процесс (П)[1]\nКустикова И.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ЮР-24/1\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Граждан процесс (П)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p3-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Труд право (Л)[1]\nСемёнова Т.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Труд право (Л)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p1-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Психология социально-правовой деяте
+ льности (П)\nМалова М.С.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ЮР-24/1\nП
+ реподаватель: Малова М.С.\nФормат: Видео-л
+ екция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Психология социально-правовой дея
+ тельности (П)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p2-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101500
+DTEND;TZID=Asia/Yekaterinburg:20260910T114500
+SUMMARY:Право социального обеспечения (Л)\nСе
+ мёнова Т.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nФормат: Виде
+ о-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Право социального обеспечения (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p4-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T133000
+DTEND;TZID=Asia/Yekaterinburg:20260910T150000
+SUMMARY:Физкультура + Отработка "н" (П)[ДОСААФ]
+ \nПатраков А.И.
+DESCRIPTION:Пара: 4 пара (13:30-15:00)\nГруппа: ЮР-24/1\nП
+ реподаватель: Патраков А.И.\nАудитория: М
+ есто проведения ДОСААФ\nТип: Отработка
+LOCATION:Место проведения ДОСААФ
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физкультура + Отработка "н" (П)[ДОСА
+ АФ]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p1-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:БЖ (П)[5]\nПатраков А.И.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ЮР-24/1\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:БЖ (П)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p2-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101500
+DTEND;TZID=Asia/Yekaterinburg:20260911T114500
+SUMMARY:Граждан процесс (Л)[1]\nКустикова И.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ЮР-24/1\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Граждан процесс (Л)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p3-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Адм процесс (Л)[14]\nНигматулин А.В.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Нигматулин А.В.\nАудитория:
+  Аудитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Адм процесс (Л)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p4-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T140000
+DTEND;TZID=Asia/Yekaterinburg:20260912T153000
+SUMMARY:Адм процесс (Л)[14]\nНигматулин А.В.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ЮР-24/1\nП
+ реподаватель: Нигматулин А.В.\nАудитория:
+  Аудитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Адм процесс (Л)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p5-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T154500
+DTEND;TZID=Asia/Yekaterinburg:20260912T171500
+SUMMARY:Адм процесс (П)[14]\nНигматулин А.В.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ЮР-24/1\nП
+ реподаватель: Нигматулин А.В.\nАудитория:
+  Аудитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Адм процесс (П)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p6-ЮР-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T172500
+DTEND;TZID=Asia/Yekaterinburg:20260912T185500
+SUMMARY:Правовые осн соц раб с отд катег граж
+ д (Л)[12]\nСемёнова Т.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ЮР-24/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Правовые осн соц раб с отд катег гр
+ ажд (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

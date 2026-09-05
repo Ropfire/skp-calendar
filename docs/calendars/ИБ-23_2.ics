@@ -1,0 +1,699 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SKP Schedule Sync//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание ИБ-23/2
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:skp-20260901-p1-ИБ-23/2-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T090000
+DTEND;TZID=Asia/Yekaterinburg:20260901T100000
+SUMMARY:Кураторский час[7]\nСеменова Т.А.
+DESCRIPTION:Пара: 1 пара (09:00-10:00)\nГруппа: ИБ-23/2\nП
+ реподаватель: Семенова Т.А.\nАудитория: А
+ удитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Кураторский час[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260901-p2-ИБ-23/2-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T101500
+DTEND;TZID=Asia/Yekaterinburg:20260901T114500
+SUMMARY:Программные и программно-аппаратные
+  средства защиты информации. Инструктаж 
+ (П)[4]\nТрушина А.И.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые средства защиты информации. Инструкт
+ аж (П)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p1-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T083000
+DTEND;TZID=Asia/Yekaterinburg:20260902T100000
+SUMMARY:Осн философии (Л)[15]\nХасанова М.Н.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИБ-23/2\nП
+ реподаватель: Хасанова М.Н.\nАудитория: А
+ удитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн философии (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p2-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T101500
+DTEND;TZID=Asia/Yekaterinburg:20260902T114500
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)[Акт. зал]\nТрушина А.И.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p3-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T120000
+DTEND;TZID=Asia/Yekaterinburg:20260902T133000
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)[Акт. зал]\nТрушина А.И.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p1-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T083000
+DTEND;TZID=Asia/Yekaterinburg:20260903T100000
+SUMMARY:Физкультура. Инструктаж (П)[15]\nПатрак
+ ов А.И.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИБ-23/2\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физкультура. Инструктаж (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p2-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T101500
+DTEND;TZID=Asia/Yekaterinburg:20260903T114500
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)[15]\nТрушина А.И.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p3-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T120000
+DTEND;TZID=Asia/Yekaterinburg:20260903T133000
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)[15]\nТрушина А.И.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p4-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T140000
+DTEND;TZID=Asia/Yekaterinburg:20260903T153000
+SUMMARY:Объектно-ориент программ (Л)[15]\nКрючк
+ ов В.В.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Крючков В.В.\nАудитория: Ау
+ дитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Объектно-ориент программ (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p1-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T083000
+DTEND;TZID=Asia/Yekaterinburg:20260904T100000
+SUMMARY:Осн философии (П)[Акт. зал]\nХасанова М
+ .Н.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИБ-23/2\nП
+ реподаватель: Хасанова М.Н.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн философии (П)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p2-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T101500
+DTEND;TZID=Asia/Yekaterinburg:20260904T114500
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)[15]\nТрушина А.И.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p3-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T120000
+DTEND;TZID=Asia/Yekaterinburg:20260904T133000
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)[15]\nТрушина А.И.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p4-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T140000
+DTEND;TZID=Asia/Yekaterinburg:20260904T153000
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)[15]\nТрушина А.И.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p5-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T154500
+DTEND;TZID=Asia/Yekaterinburg:20260904T171500
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (П)[4]\nТрушина А.И.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (П)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p3-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Инженерно-технич средства физ защит
+ ы объектов информат (Л)[15]\nШтанов Ю.Н.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Штанов Ю.Н.\nАудитория: Ауд
+ итория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Инженерно-технич средства физ защ
+ иты объектов информат (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p4-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T140000
+DTEND;TZID=Asia/Yekaterinburg:20260905T153000
+SUMMARY:Инженерно-технич средства физ защит
+ ы объектов информат (Л)[15]\nШтанов Ю.Н.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Штанов Ю.Н.\nАудитория: Ауд
+ итория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Инженерно-технич средства физ защ
+ иты объектов информат (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p5-ИБ-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T154500
+DTEND;TZID=Asia/Yekaterinburg:20260905T171500
+SUMMARY:Инженерно-технич средства физ защит
+ ы объектов информат (П)[10]\nШтанов Ю.Н.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-23/2\nП
+ реподаватель: Штанов Ю.Н.\nАудитория: Ауд
+ итория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Инженерно-технич средства физ защ
+ иты объектов информат (П)[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p4-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T140000
+DTEND;TZID=Asia/Yekaterinburg:20260907T153000
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (П)[4]\nТрушина А.И.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (П)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p5-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T154500
+DTEND;TZID=Asia/Yekaterinburg:20260907T171500
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (П)[4]\nТрушина А.И.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (П)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p6-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T172500
+DTEND;TZID=Asia/Yekaterinburg:20260907T185500
+SUMMARY:Объектно-ориент программ (П)[10]\nКрючк
+ ов В.В.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ИБ-23/2\nП
+ реподаватель: Крючков В.В.\nАудитория: Ау
+ дитория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Объектно-ориент программ (П)[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p4-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T140000
+DTEND;TZID=Asia/Yekaterinburg:20260908T153000
+SUMMARY:Объектно-ориент программ (Л)[15]\nКрючк
+ ов В.В.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Крючков В.В.\nАудитория: Ау
+ дитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Объектно-ориент программ (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p5-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T154500
+DTEND;TZID=Asia/Yekaterinburg:20260908T171500
+SUMMARY:Объектно-ориент программ (Л)[15]\nКрючк
+ ов В.В.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-23/2\nП
+ реподаватель: Крючков В.В.\nАудитория: Ау
+ дитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Объектно-ориент программ (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p6-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T172500
+DTEND;TZID=Asia/Yekaterinburg:20260908T185500
+SUMMARY:Комп сети (Л)[15]\nКрючков В.В.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ИБ-23/2\nП
+ реподаватель: Крючков В.В.\nАудитория: Ау
+ дитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Комп сети (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p2-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101500
+DTEND;TZID=Asia/Yekaterinburg:20260909T114500
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (КП)[4]\nТрушина А.И.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (КП)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p3-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (КП)[4]\nТрушина А.И.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (КП)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p4-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T140000
+DTEND;TZID=Asia/Yekaterinburg:20260909T153000
+SUMMARY:Комп сети (П)[10]\nКрючков В.В.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Крючков В.В.\nАудитория: Ау
+ дитория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Комп сети (П)[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p5-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T154500
+DTEND;TZID=Asia/Yekaterinburg:20260909T171500
+SUMMARY:Объектно-ориент программ (П)[10]\nКрючк
+ ов В.В.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-23/2\nП
+ реподаватель: Крючков В.В.\nАудитория: Ау
+ дитория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Объектно-ориент программ (П)[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p1-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Осн философии (Л)[Акт. зал]\nХасанова М
+ .Н.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИБ-23/2\nП
+ реподаватель: Хасанова М.Н.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн философии (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p2-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101500
+DTEND;TZID=Asia/Yekaterinburg:20260910T114500
+SUMMARY:Осн философии (П)[11]\nХасанова М.Н.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИБ-23/2\nП
+ реподаватель: Хасанова М.Н.\nАудитория: А
+ удитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн философии (П)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p3-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)[Акт. зал]\nТрушина А.И.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p4-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T140000
+DTEND;TZID=Asia/Yekaterinburg:20260910T153000
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (П)[4]\nТрушина А.И.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nАудитория: Ау
+ дитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (П)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p3-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T130000
+DTEND;TZID=Asia/Yekaterinburg:20260911T140000
+SUMMARY:'Физкультура. Спорт зал (П)[Геолог]\nПа
+ траков А.И.
+DESCRIPTION:Пара: 3 пара (13:00-14:00)\nГруппа: ИБ-23/2\nП
+ реподаватель: Патраков А.И.\nАудитория: М
+ есто проведения Геолог
+LOCATION:Место проведения Геолог
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:'Физкультура. Спорт зал (П)[Геолог]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p5-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T154500
+DTEND;TZID=Asia/Yekaterinburg:20260911T171500
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)\nТрушина А.И.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-23/2\nП
+ реподаватель: Трушина А.И.\nФормат: Видео-
+ лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p6-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T172500
+DTEND;TZID=Asia/Yekaterinburg:20260911T185500
+SUMMARY:Осн философии (Л)\nХасанова М.Н.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ИБ-23/2\nП
+ реподаватель: Хасанова М.Н.\nФормат: Виде
+ о-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн философии (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p3-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Комп сети (Л)[Акт. зал]\nКрючков В.В.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Крючков В.В.\nАудитория: Ау
+ дитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Комп сети (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p4-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T140000
+DTEND;TZID=Asia/Yekaterinburg:20260912T153000
+SUMMARY:Инженерно-технич средства физ защит
+ ы объектов информат (Л)[Акт. зал]\nШтанов Ю
+ .Н.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-23/2\nП
+ реподаватель: Штанов Ю.Н.\nАудитория: Ауд
+ итория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Инженерно-технич средства физ защ
+ иты объектов информат (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p5-ИБ-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T154500
+DTEND;TZID=Asia/Yekaterinburg:20260912T171500
+SUMMARY:Инженерно-технич средства физ защит
+ ы объектов информат (Л)[Акт. зал]\nШтанов Ю
+ .Н.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-23/2\nП
+ реподаватель: Штанов Ю.Н.\nАудитория: Ауд
+ итория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Инженерно-технич средства физ защ
+ иты объектов информат (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

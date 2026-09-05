@@ -1,0 +1,557 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SKP Schedule Sync//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание ИБ-24/1
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:skp-20260901-p4-ИБ-24/1-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T140000
+DTEND;TZID=Asia/Yekaterinburg:20260901T153000
+SUMMARY:Кураторский час[12]\nСабирьянова Р.Ф.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-24/1\nП
+ реподаватель: Сабирьянова Р.Ф.\nАудитори
+ я: Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Кураторский час[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260901-p5-ИБ-24/1-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T154500
+DTEND;TZID=Asia/Yekaterinburg:20260901T171500
+SUMMARY:Физическая культура.Инструктаж[1]\nПа
+ траков А.И.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-24/1\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физическая культура.Инструктаж[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260901-p6-ИБ-24/1-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T172500
+DTEND;TZID=Asia/Yekaterinburg:20260901T185500
+SUMMARY:Иностр язык ТГП (Лек) История России (
+ Лек) НПП (Лек) Информ и ИТПД (Лек) Констит 
+ право России (Лек) Матем (Лек) Осн философ
+ ии (Лек) Делопроизв и режим секрет (Лек) (П
+ )[5]\nСкоросова А.В.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ИБ-24/1\nП
+ реподаватель: Скоросова А.В.\nАудитория: 
+ Аудитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Иностр язык ТГП (Лек) История Росси
+ и (Лек) НПП (Лек) Информ и ИТПД (Лек) Консти
+ т право России (Лек) Матем (Лек) Осн филос
+ офии (Лек) Делопроизв и режим секрет (Лек)
+  (П)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p4-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T140000
+DTEND;TZID=Asia/Yekaterinburg:20260902T153000
+SUMMARY:Эксплуатация АИС. Инструктаж (Л)[Акт. 
+ зал]\nКоваленко Д.Р.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-24/1\nП
+ реподаватель: Коваленко Д.Р.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Эксплуатация АИС. Инструктаж (Л)[Ак
+ т. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p5-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T154500
+DTEND;TZID=Asia/Yekaterinburg:20260902T171500
+SUMMARY:Криптографические СЗИ (Л)[15]\nБасок М.
+ А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-24/1\nП
+ реподаватель: Басок М.А.\nАудитория: Ауди
+ тория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Криптографические СЗИ (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p6-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T172500
+DTEND;TZID=Asia/Yekaterinburg:20260902T185500
+SUMMARY:Осн алгоритм и программ (Л)[15]\nКузнец
+ ов А.Н.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ИБ-24/1\nП
+ реподаватель: Кузнецов А.Н.\nАудитория: А
+ удитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн алгоритм и программ (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p1-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T083000
+DTEND;TZID=Asia/Yekaterinburg:20260903T100000
+SUMMARY:ТЗИ (Л)[4]\nСатушев П.Ю.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИБ-24/1\nП
+ реподаватель: Сатушев П.Ю.\nАудитория: Ау
+ дитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ТЗИ (Л)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p2-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T101500
+DTEND;TZID=Asia/Yekaterinburg:20260903T114500
+SUMMARY:Иностр язык (П)[12]\nСкоросова А.В.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИБ-24/1\nП
+ реподаватель: Скоросова А.В.\nАудитория: 
+ Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Иностр язык (П)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p3-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T120000
+DTEND;TZID=Asia/Yekaterinburg:20260903T133000
+SUMMARY:Осн алгоритм и программ (Л)[Акт. зал]\n
+ Кузнецов А.Н.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ИБ-24/1\nП
+ реподаватель: Кузнецов А.Н.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн алгоритм и программ (Л)[Акт. зал
+ ]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p4-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T140000
+DTEND;TZID=Asia/Yekaterinburg:20260904T153000
+SUMMARY:Эксплуатация АИС (Л)[Акт. зал]\nКовале
+ нко Д.Р.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-24/1\nП
+ реподаватель: Коваленко Д.Р.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Эксплуатация АИС (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p5-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T154500
+DTEND;TZID=Asia/Yekaterinburg:20260904T171500
+SUMMARY:Эксплуатация КС (Л)[10]\nСатушев П.Ю.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-24/1\nП
+ реподаватель: Сатушев П.Ю.\nАудитория: Ау
+ дитория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Эксплуатация КС (Л)[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p6-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T172500
+DTEND;TZID=Asia/Yekaterinburg:20260904T185500
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)[4]\nСатушев П.Ю.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ИБ-24/1\nП
+ реподаватель: Сатушев П.Ю.\nАудитория: Ау
+ дитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p4-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T140000
+DTEND;TZID=Asia/Yekaterinburg:20260905T153000
+SUMMARY:Метрология (Л)[Акт. зал]\nКоваленко Д.Р
+ .
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-24/1\nП
+ реподаватель: Коваленко Д.Р.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Метрология (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p5-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T154500
+DTEND;TZID=Asia/Yekaterinburg:20260905T171500
+SUMMARY:Устройство и фукцион ИС (Л)[Акт. зал]\n
+ Коваленко Д.Р.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-24/1\nП
+ реподаватель: Коваленко Д.Р.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Устройство и фукцион ИС (Л)[Акт. зал
+ ]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p6-ИБ-24/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T172500
+DTEND;TZID=Asia/Yekaterinburg:20260905T185500
+SUMMARY:Криптографические СЗИ (Л)[Акт. зал]\nБ
+ асок М.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ИБ-24/1\nП
+ реподаватель: Басок М.А.\nАудитория: Ауди
+ тория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Криптографические СЗИ (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p1-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Устройство и фукцион ИС (П)[10]\nКовале
+ нко Д.Р.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИБ-24/1\nП
+ реподаватель: Коваленко Д.Р.\nАудитория: 
+ Аудитория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Устройство и фукцион ИС (П)[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p2-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101500
+DTEND;TZID=Asia/Yekaterinburg:20260907T114500
+SUMMARY:Эксплуатация КС (Л)[8]\nСатушев П.Ю.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИБ-24/1\nП
+ реподаватель: Сатушев П.Ю.\nАудитория: Ау
+ дитория 8
+LOCATION:Аудитория 8
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Эксплуатация КС (Л)[8]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p3-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Метрология (Л)[Акт. зал]\nКоваленко Д.Р
+ .
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ИБ-24/1\nП
+ реподаватель: Коваленко Д.Р.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Метрология (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p1-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)[4]\nСатушев П.Ю.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИБ-24/1\nП
+ реподаватель: Сатушев П.Ю.\nАудитория: Ау
+ дитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p2-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101500
+DTEND;TZID=Asia/Yekaterinburg:20260908T114500
+SUMMARY:Осн алгоритм и программ (П)[10]\nКузнец
+ ов А.Н.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИБ-24/1\nП
+ реподаватель: Кузнецов А.Н.\nАудитория: А
+ удитория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн алгоритм и программ (П)[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p1-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Криптографические СЗИ (Л)\nБасок М.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИБ-24/1\nП
+ реподаватель: Басок М.А.\nФормат: Видео-ле
+ кция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Криптографические СЗИ (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p2-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101500
+DTEND;TZID=Asia/Yekaterinburg:20260909T114500
+SUMMARY:Криптографические СЗИ (Л)\nБасок М.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИБ-24/1\nП
+ реподаватель: Басок М.А.\nФормат: Видео-ле
+ кция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Криптографические СЗИ (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p4-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T140000
+DTEND;TZID=Asia/Yekaterinburg:20260909T150000
+SUMMARY:Физкультура Спорт. зал (П)[Геолог]\nПа
+ траков А.И.
+DESCRIPTION:Пара: 4 пара (14:00-15:00)\nГруппа: ИБ-24/1\nП
+ реподаватель: Патраков А.И.\nАудитория: М
+ есто проведения Геолог
+LOCATION:Место проведения Геолог
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физкультура Спорт. зал (П)[Геолог]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p1-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:ТЗИ (Л)[8]\nСатушев П.Ю.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИБ-24/1\nП
+ реподаватель: Сатушев П.Ю.\nАудитория: Ау
+ дитория 8
+LOCATION:Аудитория 8
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ТЗИ (Л)[8]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p2-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101500
+DTEND;TZID=Asia/Yekaterinburg:20260910T114500
+SUMMARY:Программные и программно-аппаратные
+  СЗИ (Л)[8]\nСатушев П.Ю.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИБ-24/1\nП
+ реподаватель: Сатушев П.Ю.\nАудитория: Ау
+ дитория 8
+LOCATION:Аудитория 8
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Программные и программно-аппаратн
+ ые СЗИ (Л)[8]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p4-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T140000
+DTEND;TZID=Asia/Yekaterinburg:20260911T153000
+SUMMARY:Метрология (П)[10]\nКоваленко Д.Р.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-24/1\nП
+ реподаватель: Коваленко Д.Р.\nАудитория: 
+ Аудитория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Метрология (П)[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p5-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T154500
+DTEND;TZID=Asia/Yekaterinburg:20260911T171500
+SUMMARY:Эксплуатация АИС (Л)[Акт. зал]\nКовале
+ нко Д.Р.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-24/1\nП
+ реподаватель: Коваленко Д.Р.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Эксплуатация АИС (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p6-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T172500
+DTEND;TZID=Asia/Yekaterinburg:20260911T185500
+SUMMARY:Криптографические СЗИ (Л)[Акт. зал]\nБ
+ асок М.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ИБ-24/1\nП
+ реподаватель: Басок М.А.\nАудитория: Ауди
+ тория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Криптографические СЗИ (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p4-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T140000
+DTEND;TZID=Asia/Yekaterinburg:20260912T153000
+SUMMARY:Эксплуатация КС (Л)[8]\nСатушев П.Ю.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИБ-24/1\nП
+ реподаватель: Сатушев П.Ю.\nАудитория: Ау
+ дитория 8
+LOCATION:Аудитория 8
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Эксплуатация КС (Л)[8]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p5-ИБ-24/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T163056Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T154500
+DTEND;TZID=Asia/Yekaterinburg:20260912T171500
+SUMMARY:ТЗИ (П)[10]\nСатушев П.Ю.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИБ-24/1\nП
+ реподаватель: Сатушев П.Ю.\nАудитория: Ау
+ дитория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ТЗИ (П)[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

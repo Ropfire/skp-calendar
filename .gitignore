@@ -3,6 +3,8 @@ __pycache__/
 schedule_sample.json
 frontend.js
 schedule_cache.json
-calendars/
+/calendars/
+!docs/calendars/
+!docs/calendars/*.ics
 .vscode/
 .idea/
