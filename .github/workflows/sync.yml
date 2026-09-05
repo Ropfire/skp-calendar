@@ -1,0 +1,45 @@
+name: Auto Update Schedule
+
+on:
+  schedule:
+    # Запуск каждые 2 часа с 03:00 до 16:00 UTC (с 08:00 до 21:00 UTC+5 Сургут/Екб) с Пн по Сб
+    - cron: '0 3-16/2 * * 1-6'
+  workflow_dispatch: # Кнопка для ручного запуска в GitHub Actions
+  push:
+    branches:
+      - master
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate ICS calendars and Web page
+        run: |
+          mkdir -p docs/calendars
+          python generator.py --all-groups --out-dir docs/calendars
+          python -c "import web_page, generator; d = generator.fetch_schedule_data(); groups = generator.get_available_groups(d); open('docs/index.html', 'w', encoding='utf-8').write(web_page.generate_html_page(groups))"
+
+      - name: Commit and push if updated
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "Расписание не изменилось, коммит не требуется."
+          else
+            git commit -m "Auto-update schedule [skip ci]"
+            git push
+          fi

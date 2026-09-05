@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+schedule_sample.json
+frontend.js
+schedule_cache.json
+calendars/
+.vscode/
+.idea/

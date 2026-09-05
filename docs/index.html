@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>СКП Расписание — Календарь</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card-bg: #161b22;
+      --border: #30363d;
+      --text: #c9d1d9;
+      --text-bright: #ffffff;
+      --accent: #58a6ff;
+      --accent-hover: #1f6feb;
+      --success: #238636;
+      --success-hover: #2ea043;
+      --muted: #8b949e;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+      padding: 20px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    h1 {
+      color: var(--text-bright);
+      font-size: 1.8rem;
+      margin-bottom: 8px;
+    }
+    .subtitle {
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    .card {
+      background-color: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 24px;
+    }
+    .card h2 {
+      color: var(--text-bright);
+      font-size: 1.25rem;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .form-group {
+      margin-bottom: 16px;
+    }
+    label {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+    select, input {
+      width: 100%;
+      padding: 10px 14px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background-color: var(--bg);
+      color: var(--text-bright);
+      font-size: 1rem;
+      outline: none;
+    }
+    select:focus, input:focus {
+      border-color: var(--accent);
+    }
+    .btn-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 10px;
+      margin-top: 16px;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 10px 16px;
+      border-radius: 6px;
+      font-weight: 500;
+      font-size: 0.95rem;
+      text-decoration: none;
+      cursor: pointer;
+      border: none;
+      transition: background 0.15s;
+    }
+    .btn-primary {
+      background-color: var(--accent);
+      color: #fff;
+    }
+    .btn-primary:hover {
+      background-color: var(--accent-hover);
+    }
+    .btn-success {
+      background-color: var(--success);
+      color: #fff;
+    }
+    .btn-success:hover {
+      background-color: var(--success-hover);
+    }
+    .btn-secondary {
+      background-color: #21262d;
+      color: var(--text-bright);
+      border: 1px solid var(--border);
+    }
+    .btn-secondary:hover {
+      background-color: #30363d;
+    }
+    .link-box {
+      margin-top: 14px;
+      padding: 10px 14px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-family: monospace;
+      font-size: 0.85rem;
+      word-break: break-all;
+      color: var(--accent);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+    }
+    .guide-step {
+      margin-bottom: 14px;
+    }
+    .guide-step strong {
+      color: var(--text-bright);
+    }
+    .tag {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      background: rgba(88, 166, 255, 0.15);
+      color: var(--accent);
+      margin-left: 6px;
+    }
+    .toast {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: var(--success);
+      color: #fff;
+      padding: 12px 20px;
+      border-radius: 6px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+      display: none;
+      animation: fadeIn 0.3s;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>📅 Расписание СКП в Календарь</h1>
+      <p class="subtitle">Автоматическая синхронизация с Google Календарём и Samsung Календарём</p>
+    </header>
+
+    <div class="card">
+      <h2>1. Выберите вашу группу</h2>
+      <div class="form-group">
+        <label for="groupSelect">Группа:</label>
+        <select id="groupSelect">
+          <option value="ИБ-23/1" >ИБ-23/1</option><option value="ИБ-23/2" >ИБ-23/2</option><option value="ИБ-24/1" >ИБ-24/1</option><option value="ИБ-24/2" >ИБ-24/2</option><option value="ИБ-25/1" >ИБ-25/1</option><option value="ИБ-26/1" >ИБ-26/1</option><option value="ИБ-26/2" >ИБ-26/2</option><option value="ИСиП-23/1" selected>ИСиП-23/1</option><option value="ИСиП-24/1(П)" >ИСиП-24/1(П)</option><option value="ИСиП-24/1(Р)" >ИСиП-24/1(Р)</option><option value="ИСиП-25/1" >ИСиП-25/1</option><option value="ИСиП-25/2" >ИСиП-25/2</option><option value="ПД-23/1" >ПД-23/1</option><option value="ПД-23/2" >ПД-23/2</option><option value="ПД-24/1" >ПД-24/1</option><option value="ПД-24/2" >ПД-24/2</option><option value="ПД-25/1" >ПД-25/1</option><option value="ПД-25/2" >ПД-25/2</option><option value="ПД-25/3" >ПД-25/3</option><option value="ПД-26/1" >ПД-26/1</option><option value="ПД-26/2" >ПД-26/2</option><option value="ПД-26/3" >ПД-26/3</option><option value="РУПО-26/1" >РУПО-26/1</option><option value="ЮР-24/1" >ЮР-24/1</option>
+        </select>
+      </div>
+
+      <div class="btn-grid">
+        <a id="btnGoogle" class="btn btn-primary" href="#" target="_blank">
+          🌐 Добавить в Google Календарь
+        </a>
+        <button id="btnCopyUrl" class="btn btn-success" type="button">
+          📋 Скопировать ссылку подписки
+        </button>
+        <a id="btnDownload" class="btn btn-secondary" href="#" download>
+          💾 Скачать .ics файл
+        </a>
+      </div>
+
+      <div class="link-box">
+        <span id="icsUrlDisplay">...</span>
+        <button id="btnCopyInline" style="background:none;border:none;color:var(--muted);cursor:pointer;font-size:1rem;" title="Копировать">📋</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>📱 Инструкция для Samsung Календаря</h2>
+      <div class="guide-step">
+        <strong>Способ 1 (Самый простой — через Google Аккаунт):</strong>
+        <p>1. Нажмите кнопку «Добавить в Google Календарь» выше.</p>
+        <p>2. На телефоне Samsung откройте <strong>Samsung Календарь</strong> → боковое меню (3 полоски) → внизу нажмите «Синхронизировать» (или убедитесь, что включен ваш Google аккаунт).</p>
+        <p>3. В списке календарей поставьте галочку напротив добавленного расписания. Готово! Все пары будут видны в Samsung Календаре и автоматически обновляться.</p>
+      </div>
+      <div class="guide-step" style="margin-top: 14px;">
+        <strong>Способ 2 (Напрямую по ссылке):</strong>
+        <p>1. Скопируйте ссылку подписки кнопкой выше.</p>
+        <p>2. Откройте приложение Samsung Календарь → <strong>Меню → Управление календарями → Добавить подписку на календарь</strong> (или Подписка по URL) → вставьте ссылку.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>🖥 Инструкция для Google Календаря на компьютере</h2>
+      <div class="guide-step">
+        <p>1. Нажмите синюю кнопку «Добавить в Google Календарь» выше.</p>
+        <p>2. Либо вручную откройте <a href="https://calendar.google.com" target="_blank" style="color:var(--accent);">calendar.google.com</a>, слева возле «Другие календари» нажмите значок <strong>«+»</strong> → <strong>«Добавить по URL»</strong>.</p>
+        <p>3. Вставьте скопированную ссылку и нажмите «Добавить календарь».</p>
+      </div>
+    </div>
+
+    <div id="toast" class="toast">✓ Ссылка на календарь скопирована!</div>
+  </div>
+
+  <script>
+    const groupSelect = document.getElementById('groupSelect');
+    const btnGoogle = document.getElementById('btnGoogle');
+    const btnDownload = document.getElementById('btnDownload');
+    const btnCopyUrl = document.getElementById('btnCopyUrl');
+    const btnCopyInline = document.getElementById('btnCopyInline');
+    const icsUrlDisplay = document.getElementById('icsUrlDisplay');
+    const toast = document.getElementById('toast');
+
+    function getSafeFilename(group) {
+      return group.replace(/[/\\?%*:|"<>]/g, '_') + '.ics';
+    }
+
+    function updateLinks() {
+      const group = groupSelect.value;
+      const safeFile = getSafeFilename(group);
+      
+      const baseUrl = window.location.origin + window.location.pathname.replace(/\/[^\/]*$/, '');
+      const icsUrl = baseUrl + '/calendars/' + safeFile;
+      
+      // Google Calendar subscribe URL
+      const cleanHttpUrl = icsUrl.replace(/^https?:\/\//, '');
+      const googleSubscribeUrl = 'https://calendar.google.com/calendar/r?cid=' + encodeURIComponent('webcal://' + cleanHttpUrl);
+      
+      btnGoogle.href = googleSubscribeUrl;
+      btnDownload.href = icsUrl;
+      btnDownload.setAttribute('download', safeFile);
+      icsUrlDisplay.textContent = icsUrl;
+    }
+
+    function copyToClipboard() {
+      const text = icsUrlDisplay.textContent;
+      navigator.clipboard.writeText(text).then(() => {
+        toast.style.display = 'block';
+        setTimeout(() => { toast.style.display = 'none'; }, 2500);
+      });
+    }
+
+    groupSelect.addEventListener('change', updateLinks);
+    btnCopyUrl.addEventListener('click', copyToClipboard);
+    btnCopyInline.addEventListener('click', copyToClipboard);
+
+    updateLinks();
+  </script>
+</body>
+</html>
