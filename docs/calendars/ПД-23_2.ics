@@ -1,681 +1,681 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//SKP Schedule Sync//RU
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Расписание ПД-23/2
-X-WR-TIMEZONE:Asia/Yekaterinburg
-BEGIN:VTIMEZONE
-TZID:Asia/Yekaterinburg
-BEGIN:STANDARD
-DTSTART:19700101T000000
-TZOFFSETFROM:+0500
-TZOFFSETTO:+0500
-TZNAME:+05
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VEVENT
-UID:skp-20260901-p5-ПД-23/2-01.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260901T154500
-DTEND;TZID=Asia/Yekaterinburg:20260901T171500
-SUMMARY:Кураторский час[14]\nСкоросова А.В.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
- реподаватель: Скоросова А.В.\nАудитория: 
- Аудитория 14
-LOCATION:Аудитория 14
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Кураторский час[14]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260901-p6-ПД-23/2-01.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260901T172500
-DTEND;TZID=Asia/Yekaterinburg:20260901T185500
-SUMMARY:Специальная техника (Л)[15]\nИванов В.Б.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
- реподаватель: Иванов В.Б.\nАудитория: Ауд
- итория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Специальная техника (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260902-p5-ПД-23/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260902T154500
-DTEND;TZID=Asia/Yekaterinburg:20260902T171500
-SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
- ал]\nКустикова И.А.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
- . зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260902-p6-ПД-23/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260902T172500
-DTEND;TZID=Asia/Yekaterinburg:20260902T185500
-SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
- ал]\nКустикова И.А.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
- . зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260903-p1-ПД-23/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260903T083000
-DTEND;TZID=Asia/Yekaterinburg:20260903T100000
-SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
- ал]\nКустикова И.А.
-DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
- . зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260903-p2-ПД-23/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260903T101500
-DTEND;TZID=Asia/Yekaterinburg:20260903T114500
-SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
- ал]\nКустикова И.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
- . зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260904-p5-ПД-23/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260904T154500
-DTEND;TZID=Asia/Yekaterinburg:20260904T171500
-SUMMARY:Спец техника (Л)[15]\nИванов В.Б.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
- реподаватель: Иванов В.Б.\nАудитория: Ауд
- итория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Спец техника (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260904-p6-ПД-23/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260904T172500
-DTEND;TZID=Asia/Yekaterinburg:20260904T185500
-SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260905-p1-ПД-23/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
-DTEND;TZID=Asia/Yekaterinburg:20260905T100000
-SUMMARY:Спец техника (Л)[15]\nИванов В.Б.
-DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-23/2\nП
- реподаватель: Иванов В.Б.\nАудитория: Ауд
- итория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Спец техника (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260905-p2-ПД-23/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260905T101500
-DTEND;TZID=Asia/Yekaterinburg:20260905T114500
-SUMMARY:Спец техника (Л)[15]\nИванов В.Б.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/2\nП
- реподаватель: Иванов В.Б.\nАудитория: Ауд
- итория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Спец техника (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260905-p3-ПД-23/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
-DTEND;TZID=Asia/Yekaterinburg:20260905T133000
-SUMMARY:Физкультура. Инструктаж (П)[Акт. зал]\n
- Патраков А.И.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
- реподаватель: Патраков А.И.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Физкультура. Инструктаж (П)[Акт. за
- л]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260907-p2-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T101500
-DTEND;TZID=Asia/Yekaterinburg:20260907T114500
-SUMMARY:Консультация по пересдаче ТСП[Акт. з
- ал]\nПермяков А.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория Акт. зал\nТип: Консультация
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Консультация по пересдаче ТСП[Акт.
-  зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260907-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
-DTEND;TZID=Asia/Yekaterinburg:20260907T133000
-SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260907-p4-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T140000
-DTEND;TZID=Asia/Yekaterinburg:20260907T153000
-SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260907-p5-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T154500
-DTEND;TZID=Asia/Yekaterinburg:20260907T171500
-SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
- ал]\nКустикова И.А.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
- . зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260907-p6-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T172500
-DTEND;TZID=Asia/Yekaterinburg:20260907T185500
-SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
- ал]\nКустикова И.А.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
- . зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260908-p1-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
-DTEND;TZID=Asia/Yekaterinburg:20260908T100000
-SUMMARY:Спец техника (Л)\nИванов В.Б.
-DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-23/2\nП
- реподаватель: Иванов В.Б.\nФормат: Видео-л
- екция
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Спец техника (Л)
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260908-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T130000
-DTEND;TZID=Asia/Yekaterinburg:20260908T140000
-SUMMARY:'Физкультура Спорт зал (П)[Геолог]\nПа
- траков А.И.
-DESCRIPTION:Пара: 3 пара (13:00-14:00)\nГруппа: ПД-23/2\nП
- реподаватель: Патраков А.И.\nАудитория: М
- есто проведения Геолог
-LOCATION:Место проведения Геолог
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:'Физкультура Спорт зал (П)[Геолог]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260908-p5-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T154500
-DTEND;TZID=Asia/Yekaterinburg:20260908T171500
-SUMMARY:Осн. упр. в правоохр. органах (Л)\nКуст
- икова И.А.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nФормат: Вид
- ео-лекция
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260908-p6-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T172500
-DTEND;TZID=Asia/Yekaterinburg:20260908T185500
-SUMMARY:Осн. упр. в правоохр. органах (Л)\nКуст
- икова И.А.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nФормат: Вид
- ео-лекция
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260909-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
-DTEND;TZID=Asia/Yekaterinburg:20260909T133000
-SUMMARY:Спец техника (Л)[15]\nИванов В.Б.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
- реподаватель: Иванов В.Б.\nАудитория: Ауд
- итория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Спец техника (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260909-p4-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T140000
-DTEND;TZID=Asia/Yekaterinburg:20260909T153000
-SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260909-p5-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T154500
-DTEND;TZID=Asia/Yekaterinburg:20260909T171500
-SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260909-p6-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T172500
-DTEND;TZID=Asia/Yekaterinburg:20260909T185500
-SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260910-p1-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
-DTEND;TZID=Asia/Yekaterinburg:20260910T100000
-SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260910-p2-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T101500
-DTEND;TZID=Asia/Yekaterinburg:20260910T114500
-SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260910-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
-DTEND;TZID=Asia/Yekaterinburg:20260910T133000
-SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260910-p4-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T140000
-DTEND;TZID=Asia/Yekaterinburg:20260910T153000
-SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260911-p2-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T101500
-DTEND;TZID=Asia/Yekaterinburg:20260911T114500
-SUMMARY:Консультация по пересдаче НПП[15]\nПер
- мяков А.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория 15\nТип: Консультация
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Консультация по пересдаче НПП[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260911-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
-DTEND;TZID=Asia/Yekaterinburg:20260911T133000
-SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260911-p4-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T140000
-DTEND;TZID=Asia/Yekaterinburg:20260911T153000
-SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260911-p5-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T154500
-DTEND;TZID=Asia/Yekaterinburg:20260911T171500
-SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260911-p6-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T172500
-DTEND;TZID=Asia/Yekaterinburg:20260911T185500
-SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260912-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
-DTEND;TZID=Asia/Yekaterinburg:20260912T133000
-SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260912-p4-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260912T140000
-DTEND;TZID=Asia/Yekaterinburg:20260912T153000
-SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260912-p5-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260912T154500
-DTEND;TZID=Asia/Yekaterinburg:20260912T171500
-SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260912-p6-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260912T172500
-DTEND;TZID=Asia/Yekaterinburg:20260912T185500
-SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SKP Schedule Sync//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание ПД-23/2
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:skp-20260901-p5-ПД-23/2-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T154500
+DTEND;TZID=Asia/Yekaterinburg:20260901T171500
+SUMMARY:Кураторский час[14]\nСкоросова А.В.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
+ реподаватель: Скоросова А.В.\nАудитория: 
+ Аудитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Кураторский час[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260901-p6-ПД-23/2-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T172500
+DTEND;TZID=Asia/Yekaterinburg:20260901T185500
+SUMMARY:Специальная техника (Л)[15]\nИванов В.Б.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
+ реподаватель: Иванов В.Б.\nАудитория: Ауд
+ итория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Специальная техника (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p5-ПД-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T154500
+DTEND;TZID=Asia/Yekaterinburg:20260902T171500
+SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
+ ал]\nКустикова И.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
+ . зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p6-ПД-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T172500
+DTEND;TZID=Asia/Yekaterinburg:20260902T185500
+SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
+ ал]\nКустикова И.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
+ . зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p1-ПД-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T083000
+DTEND;TZID=Asia/Yekaterinburg:20260903T100000
+SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
+ ал]\nКустикова И.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
+ . зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p2-ПД-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T101500
+DTEND;TZID=Asia/Yekaterinburg:20260903T114500
+SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
+ ал]\nКустикова И.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
+ . зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p5-ПД-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T154500
+DTEND;TZID=Asia/Yekaterinburg:20260904T171500
+SUMMARY:Спец техника (Л)[15]\nИванов В.Б.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
+ реподаватель: Иванов В.Б.\nАудитория: Ауд
+ итория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Спец техника (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p6-ПД-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T172500
+DTEND;TZID=Asia/Yekaterinburg:20260904T185500
+SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p1-ПД-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Спец техника (Л)[15]\nИванов В.Б.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-23/2\nП
+ реподаватель: Иванов В.Б.\nАудитория: Ауд
+ итория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Спец техника (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p2-ПД-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101500
+DTEND;TZID=Asia/Yekaterinburg:20260905T114500
+SUMMARY:Спец техника (Л)[15]\nИванов В.Б.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/2\nП
+ реподаватель: Иванов В.Б.\nАудитория: Ауд
+ итория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Спец техника (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p3-ПД-23/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Физкультура. Инструктаж (П)[Акт. зал]\n
+ Патраков А.И.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физкультура. Инструктаж (П)[Акт. за
+ л]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p2-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101500
+DTEND;TZID=Asia/Yekaterinburg:20260907T114500
+SUMMARY:Консультация по пересдаче ТСП[Акт. з
+ ал]\nПермяков А.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал\nТип: Консультация
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Консультация по пересдаче ТСП[Акт.
+  зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p4-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T140000
+DTEND;TZID=Asia/Yekaterinburg:20260907T153000
+SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p5-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T154500
+DTEND;TZID=Asia/Yekaterinburg:20260907T171500
+SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
+ ал]\nКустикова И.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
+ . зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p6-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T172500
+DTEND;TZID=Asia/Yekaterinburg:20260907T185500
+SUMMARY:Осн. упр. в правоохр. органах (Л)[Акт. з
+ ал]\nКустикова И.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[Акт
+ . зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p1-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Спец техника (Л)\nИванов В.Б.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-23/2\nП
+ реподаватель: Иванов В.Б.\nФормат: Видео-л
+ екция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Спец техника (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T130000
+DTEND;TZID=Asia/Yekaterinburg:20260908T140000
+SUMMARY:'Физкультура Спорт зал (П)[Геолог]\nПа
+ траков А.И.
+DESCRIPTION:Пара: 3 пара (13:00-14:00)\nГруппа: ПД-23/2\nП
+ реподаватель: Патраков А.И.\nАудитория: М
+ есто проведения Геолог
+LOCATION:Место проведения Геолог
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:'Физкультура Спорт зал (П)[Геолог]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p5-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T154500
+DTEND;TZID=Asia/Yekaterinburg:20260908T171500
+SUMMARY:Осн. упр. в правоохр. органах (Л)\nКуст
+ икова И.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nФормат: Вид
+ ео-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p6-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T172500
+DTEND;TZID=Asia/Yekaterinburg:20260908T185500
+SUMMARY:Осн. упр. в правоохр. органах (Л)\nКуст
+ икова И.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nФормат: Вид
+ ео-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Спец техника (Л)[15]\nИванов В.Б.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
+ реподаватель: Иванов В.Б.\nАудитория: Ауд
+ итория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Спец техника (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p4-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T140000
+DTEND;TZID=Asia/Yekaterinburg:20260909T153000
+SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p5-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T154500
+DTEND;TZID=Asia/Yekaterinburg:20260909T171500
+SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p6-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T172500
+DTEND;TZID=Asia/Yekaterinburg:20260909T185500
+SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p1-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p2-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101500
+DTEND;TZID=Asia/Yekaterinburg:20260910T114500
+SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p4-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T140000
+DTEND;TZID=Asia/Yekaterinburg:20260910T153000
+SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p2-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101500
+DTEND;TZID=Asia/Yekaterinburg:20260911T114500
+SUMMARY:Консультация по пересдаче НПП[15]\nПер
+ мяков А.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория 15\nТип: Консультация
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Консультация по пересдаче НПП[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p4-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T140000
+DTEND;TZID=Asia/Yekaterinburg:20260911T153000
+SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p5-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T154500
+DTEND;TZID=Asia/Yekaterinburg:20260911T171500
+SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p6-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T172500
+DTEND;TZID=Asia/Yekaterinburg:20260911T185500
+SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p3-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p4-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T140000
+DTEND;TZID=Asia/Yekaterinburg:20260912T153000
+SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p5-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T154500
+DTEND;TZID=Asia/Yekaterinburg:20260912T171500
+SUMMARY:Осн. упр. в правоохр. органах (П)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p6-ПД-23/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T172500
+DTEND;TZID=Asia/Yekaterinburg:20260912T185500
+SUMMARY:Осн. упр. в правоохр. органах (Л)[15]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн. упр. в правоохр. органах (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

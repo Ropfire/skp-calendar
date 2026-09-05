@@ -1,532 +1,532 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//SKP Schedule Sync//RU
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Расписание ПД-24/2
-X-WR-TIMEZONE:Asia/Yekaterinburg
-BEGIN:VTIMEZONE
-TZID:Asia/Yekaterinburg
-BEGIN:STANDARD
-DTSTART:19700101T000000
-TZOFFSETFROM:+0500
-TZOFFSETTO:+0500
-TZNAME:+05
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VEVENT
-UID:skp-20260901-p5-ПД-24/2-01.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260901T154500
-DTEND;TZID=Asia/Yekaterinburg:20260901T171500
-SUMMARY:Кураторский час[Акт. зал]\nХасанова М.
- Н.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
- реподаватель: Хасанова М.Н.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Кураторский час[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260901-p6-ПД-24/2-01.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260901T172500
-DTEND;TZID=Asia/Yekaterinburg:20260901T185500
-SUMMARY:Физическая культура.Инструктаж Русс
- кий язык Физкультура (Пр) Литература (Лек
- ) Иностр язык (Пр) Матем (Лек) Введ в спец (
- Лек) ' ОБиЗР (Лек) Физика (Лек) Информат (Ле
- к) История (Лек) (Л)[Акт. зал]\nПатраков А.И.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-24/2\nП
- реподаватель: Патраков А.И.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Физическая культура.Инструктаж Ру
- сский язык Физкультура (Пр) Литература (Л
- ек) Иностр язык (Пр) Матем (Лек) Введ в спе
- ц (Лек) ' ОБиЗР (Лек) Физика (Лек) Информат (
- Лек) История (Лек) (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260902-p3-ПД-24/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260902T120000
-DTEND;TZID=Asia/Yekaterinburg:20260902T133000
-SUMMARY:Труд право (Л)[15]\nСемёнова Т.А.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-24/2\nП
- реподаватель: Семёнова Т.А.\nАудитория: А
- удитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Труд право (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260902-p4-ПД-24/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260902T140000
-DTEND;TZID=Asia/Yekaterinburg:20260902T153000
-SUMMARY:Уголовный процесс (Л)[15]\nПермяков А.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Уголовный процесс (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260903-p4-ПД-24/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260903T140000
-DTEND;TZID=Asia/Yekaterinburg:20260903T153000
-SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
- в А.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Уголовное право (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260903-p5-ПД-24/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260903T154500
-DTEND;TZID=Asia/Yekaterinburg:20260903T171500
-SUMMARY:ТСП (Л)[15]\nПермяков А.А.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ТСП (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260904-p4-ПД-24/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260904T140000
-DTEND;TZID=Asia/Yekaterinburg:20260904T153000
-SUMMARY:Иностр язык (П)[12]\nСкоросова А.В.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
- реподаватель: Скоросова А.В.\nАудитория: 
- Аудитория 12
-LOCATION:Аудитория 12
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Иностр язык (П)[12]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260904-p5-ПД-24/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260904T154500
-DTEND;TZID=Asia/Yekaterinburg:20260904T171500
-SUMMARY:Гражд право и процесс (Л)[Акт. зал]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Гражд право и процесс (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260904-p6-ПД-24/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260904T172500
-DTEND;TZID=Asia/Yekaterinburg:20260904T185500
-SUMMARY:Уголовноепроцесс (Л)[Акт. зал]\nПермяк
- ов А.А.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Уголовноепроцесс (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260905-p1-ПД-24/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
-DTEND;TZID=Asia/Yekaterinburg:20260905T100000
-SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
- в А.А.
-DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Уголовное право (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260905-p2-ПД-24/2-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260905T101500
-DTEND;TZID=Asia/Yekaterinburg:20260905T114500
-SUMMARY:Огневая подготовка (Л)[Акт. зал]\nПерм
- яков А.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Огневая подготовка (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260907-p2-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T101500
-DTEND;TZID=Asia/Yekaterinburg:20260907T114500
-SUMMARY:Консультация по пересдаче ТСП[Акт. з
- ал]\nПермяков А.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория Акт. зал\nТип: Консультация
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Консультация по пересдаче ТСП[Акт.
-  зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260907-p4-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T140000
-DTEND;TZID=Asia/Yekaterinburg:20260907T153000
-SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
- в А.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Уголовное право (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260907-p5-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T154500
-DTEND;TZID=Asia/Yekaterinburg:20260907T171500
-SUMMARY:Уголовное право (Л)[15]\nПермяков А.А.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Уголовное право (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260907-p6-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T172500
-DTEND;TZID=Asia/Yekaterinburg:20260907T185500
-SUMMARY:БЖ (Л)[15]\nПатраков А.И.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-24/2\nП
- реподаватель: Патраков А.И.\nАудитория: А
- удитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:БЖ (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260908-p2-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T101500
-DTEND;TZID=Asia/Yekaterinburg:20260908T114500
-SUMMARY:Гражд право и процесс (Л)[Акт. зал]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Гражд право и процесс (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260908-p3-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
-DTEND;TZID=Asia/Yekaterinburg:20260908T133000
-SUMMARY:Гражд право и процесс (Л)[Акт. зал]\nКу
- стикова И.А.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-24/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Гражд право и процесс (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260908-p4-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T140000
-DTEND;TZID=Asia/Yekaterinburg:20260908T153000
-SUMMARY:ТСП (Л)[Акт. зал]\nПермяков А.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ТСП (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260909-p3-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T130000
-DTEND;TZID=Asia/Yekaterinburg:20260909T140000
-SUMMARY:Физкультура Спорт. зал (П)[Геолог]\nПа
- траков А.И.
-DESCRIPTION:Пара: 3 пара (13:00-14:00)\nГруппа: ПД-24/2\nП
- реподаватель: Патраков А.И.\nАудитория: М
- есто проведения Геолог
-LOCATION:Место проведения Геолог
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Физкультура Спорт. зал (П)[Геолог]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260909-p5-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T154500
-DTEND;TZID=Asia/Yekaterinburg:20260909T171500
-SUMMARY:Уголовный процесс (Л)\nПермяков А.А.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nФормат: Виде
- о-лекция
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Уголовный процесс (Л)
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260909-p6-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T172500
-DTEND;TZID=Asia/Yekaterinburg:20260909T185500
-SUMMARY:Уголовный процесс (Л)\nПермяков А.А.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nФормат: Виде
- о-лекция
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Уголовный процесс (Л)
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260910-p3-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
-DTEND;TZID=Asia/Yekaterinburg:20260910T133000
-SUMMARY:Уголовный процесс (П)[7]\nПермяков А.А.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория 7
-LOCATION:Аудитория 7
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Уголовный процесс (П)[7]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260910-p4-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T140000
-DTEND;TZID=Asia/Yekaterinburg:20260910T153000
-SUMMARY:ТСП (Л)[Акт. зал]\nПермяков А.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ТСП (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260910-p5-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T154500
-DTEND;TZID=Asia/Yekaterinburg:20260910T171500
-SUMMARY:БЖ (Л)[Акт. зал]\nПатраков А.И.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
- реподаватель: Патраков А.И.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:БЖ (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260911-p2-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T101500
-DTEND;TZID=Asia/Yekaterinburg:20260911T114500
-SUMMARY:Консультация по пересдаче НПП[15]\nПер
- мяков А.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория 15\nТип: Консультация
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Консультация по пересдаче НПП[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260911-p3-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
-DTEND;TZID=Asia/Yekaterinburg:20260911T133000
-SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
- в А.А.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория Акт. зал
-LOCATION:Аудитория Акт. зал
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Уголовное право (Л)[Акт. зал]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260911-p4-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T140000
-DTEND;TZID=Asia/Yekaterinburg:20260911T153000
-SUMMARY:Уголовное право (КП)[14]\nПермяков А.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
- реподаватель: Пермяков А.А.\nАудитория: А
- удитория 14
-LOCATION:Аудитория 14
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Уголовное право (КП)[14]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260912-p1-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
-DTEND;TZID=Asia/Yekaterinburg:20260912T100000
-SUMMARY:Гражд право и процесс (Л)[15]\nКустиков
- а И.А.
-DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-24/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Гражд право и процесс (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260912-p2-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260912T101500
-DTEND;TZID=Asia/Yekaterinburg:20260912T114500
-SUMMARY:Гражд право и процесс (Л)[15]\nКустиков
- а И.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/2\nП
- реподаватель: Кустикова И.А.\nАудитория: 
- Аудитория 15
-LOCATION:Аудитория 15
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Гражд право и процесс (Л)[15]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SKP Schedule Sync//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание ПД-24/2
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:skp-20260901-p5-ПД-24/2-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T154500
+DTEND;TZID=Asia/Yekaterinburg:20260901T171500
+SUMMARY:Кураторский час[Акт. зал]\nХасанова М.
+ Н.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
+ реподаватель: Хасанова М.Н.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Кураторский час[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260901-p6-ПД-24/2-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T172500
+DTEND;TZID=Asia/Yekaterinburg:20260901T185500
+SUMMARY:Физическая культура.Инструктаж Русс
+ кий язык Физкультура (Пр) Литература (Лек
+ ) Иностр язык (Пр) Матем (Лек) Введ в спец (
+ Лек) ' ОБиЗР (Лек) Физика (Лек) Информат (Ле
+ к) История (Лек) (Л)[Акт. зал]\nПатраков А.И.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-24/2\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физическая культура.Инструктаж Ру
+ сский язык Физкультура (Пр) Литература (Л
+ ек) Иностр язык (Пр) Матем (Лек) Введ в спе
+ ц (Лек) ' ОБиЗР (Лек) Физика (Лек) Информат (
+ Лек) История (Лек) (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p3-ПД-24/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T120000
+DTEND;TZID=Asia/Yekaterinburg:20260902T133000
+SUMMARY:Труд право (Л)[15]\nСемёнова Т.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-24/2\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Труд право (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p4-ПД-24/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T140000
+DTEND;TZID=Asia/Yekaterinburg:20260902T153000
+SUMMARY:Уголовный процесс (Л)[15]\nПермяков А.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовный процесс (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p4-ПД-24/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T140000
+DTEND;TZID=Asia/Yekaterinburg:20260903T153000
+SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
+ в А.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовное право (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p5-ПД-24/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T154500
+DTEND;TZID=Asia/Yekaterinburg:20260903T171500
+SUMMARY:ТСП (Л)[15]\nПермяков А.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ТСП (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p4-ПД-24/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T140000
+DTEND;TZID=Asia/Yekaterinburg:20260904T153000
+SUMMARY:Иностр язык (П)[12]\nСкоросова А.В.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
+ реподаватель: Скоросова А.В.\nАудитория: 
+ Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Иностр язык (П)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p5-ПД-24/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T154500
+DTEND;TZID=Asia/Yekaterinburg:20260904T171500
+SUMMARY:Гражд право и процесс (Л)[Акт. зал]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Гражд право и процесс (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p6-ПД-24/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T172500
+DTEND;TZID=Asia/Yekaterinburg:20260904T185500
+SUMMARY:Уголовноепроцесс (Л)[Акт. зал]\nПермяк
+ ов А.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовноепроцесс (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p1-ПД-24/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
+ в А.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовное право (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260905-p2-ПД-24/2-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101500
+DTEND;TZID=Asia/Yekaterinburg:20260905T114500
+SUMMARY:Огневая подготовка (Л)[Акт. зал]\nПерм
+ яков А.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Огневая подготовка (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p2-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101500
+DTEND;TZID=Asia/Yekaterinburg:20260907T114500
+SUMMARY:Консультация по пересдаче ТСП[Акт. з
+ ал]\nПермяков А.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал\nТип: Консультация
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Консультация по пересдаче ТСП[Акт.
+  зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p4-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T140000
+DTEND;TZID=Asia/Yekaterinburg:20260907T153000
+SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
+ в А.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовное право (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p5-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T154500
+DTEND;TZID=Asia/Yekaterinburg:20260907T171500
+SUMMARY:Уголовное право (Л)[15]\nПермяков А.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовное право (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p6-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T172500
+DTEND;TZID=Asia/Yekaterinburg:20260907T185500
+SUMMARY:БЖ (Л)[15]\nПатраков А.И.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-24/2\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:БЖ (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p2-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101500
+DTEND;TZID=Asia/Yekaterinburg:20260908T114500
+SUMMARY:Гражд право и процесс (Л)[Акт. зал]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Гражд право и процесс (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p3-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Гражд право и процесс (Л)[Акт. зал]\nКу
+ стикова И.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-24/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Гражд право и процесс (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p4-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T140000
+DTEND;TZID=Asia/Yekaterinburg:20260908T153000
+SUMMARY:ТСП (Л)[Акт. зал]\nПермяков А.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ТСП (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p3-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T130000
+DTEND;TZID=Asia/Yekaterinburg:20260909T140000
+SUMMARY:Физкультура Спорт. зал (П)[Геолог]\nПа
+ траков А.И.
+DESCRIPTION:Пара: 3 пара (13:00-14:00)\nГруппа: ПД-24/2\nП
+ реподаватель: Патраков А.И.\nАудитория: М
+ есто проведения Геолог
+LOCATION:Место проведения Геолог
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физкультура Спорт. зал (П)[Геолог]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p5-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T154500
+DTEND;TZID=Asia/Yekaterinburg:20260909T171500
+SUMMARY:Уголовный процесс (Л)\nПермяков А.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nФормат: Виде
+ о-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовный процесс (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p6-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T172500
+DTEND;TZID=Asia/Yekaterinburg:20260909T185500
+SUMMARY:Уголовный процесс (Л)\nПермяков А.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nФормат: Виде
+ о-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовный процесс (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p3-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Уголовный процесс (П)[7]\nПермяков А.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовный процесс (П)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p4-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T140000
+DTEND;TZID=Asia/Yekaterinburg:20260910T153000
+SUMMARY:ТСП (Л)[Акт. зал]\nПермяков А.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ТСП (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p5-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T154500
+DTEND;TZID=Asia/Yekaterinburg:20260910T171500
+SUMMARY:БЖ (Л)[Акт. зал]\nПатраков А.И.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/2\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:БЖ (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p2-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101500
+DTEND;TZID=Asia/Yekaterinburg:20260911T114500
+SUMMARY:Консультация по пересдаче НПП[15]\nПер
+ мяков А.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория 15\nТип: Консультация
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Консультация по пересдаче НПП[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p3-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
+ в А.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовное право (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p4-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T140000
+DTEND;TZID=Asia/Yekaterinburg:20260911T153000
+SUMMARY:Уголовное право (КП)[14]\nПермяков А.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-24/2\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовное право (КП)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p1-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Гражд право и процесс (Л)[15]\nКустиков
+ а И.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-24/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Гражд право и процесс (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p2-ПД-24/2-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101500
+DTEND;TZID=Asia/Yekaterinburg:20260912T114500
+SUMMARY:Гражд право и процесс (Л)[15]\nКустиков
+ а И.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/2\nП
+ реподаватель: Кустикова И.А.\nАудитория: 
+ Аудитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Гражд право и процесс (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

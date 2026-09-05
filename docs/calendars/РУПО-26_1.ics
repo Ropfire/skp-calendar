@@ -1,517 +1,517 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//SKP Schedule Sync//RU
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Расписание РУПО-26/1
-X-WR-TIMEZONE:Asia/Yekaterinburg
-BEGIN:VTIMEZONE
-TZID:Asia/Yekaterinburg
-BEGIN:STANDARD
-DTSTART:19700101T000000
-TZOFFSETFROM:+0500
-TZOFFSETTO:+0500
-TZNAME:+05
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VEVENT
-UID:skp-20260901-p2-РУПО-26/1-01.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260901T101500
-DTEND;TZID=Asia/Yekaterinburg:20260901T114500
-SUMMARY:Кураторский час[12]\nОкунева О.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
- \nПреподаватель: Окунева О.А.\nАудитория: 
- Аудитория 12
-LOCATION:Аудитория 12
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Кураторский час[12]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260901-p3-РУПО-26/1-01.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260901T120000
-DTEND;TZID=Asia/Yekaterinburg:20260901T133000
-SUMMARY:Информатика. Инструктаж[10]\nСатушев П
- .Ю.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Сатушев П.Ю.\nАудитория: 
- Аудитория 10
-LOCATION:Аудитория 10
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Информатика. Инструктаж[10]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260901-p6-РУПО-26/1-01.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260901T172500
-DTEND;TZID=Asia/Yekaterinburg:20260901T185500
-SUMMARY:Системное программирование Разраб м
- обильных приложений (Лек) Физкультура (П
- р) Поддержка и тестирование программ мод
- улей (Лек) Разраб программ модулей (Лек) М
- енедж в проф деят (Лек) Эконом отрасли (Ле
- к) Технология разработки программного о
- беспечения (Лек) Инструм средства разраб
-  прогр обесп (Лек) Стандарт\, сертиф и тех
- н докум (Лек) Осн философии (Лек) Иностр я
- зык в проф деят (Пр) (Л)[Системное програм
- мирование (Лек)]\nБогданова К.В.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: РУПО-26/1
- \nПреподаватель: Богданова К.В.\nАудитори
- я: Аудитория Системное программирование
-  (Лек)
-LOCATION:Аудитория Системное программирован
- ие (Лек)
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Системное программирование Разра
- б мобильных приложений (Лек) Физкультура
-  (Пр) Поддержка и тестирование программ м
- одулей (Лек) Разраб программ модулей (Лек
- ) Менедж в проф деят (Лек) Эконом отрасли (
- Лек) Технология разработки программного
-  обеспечения (Лек) Инструм средства разр
- аб прогр обесп (Лек) Стандарт\, сертиф и т
- ехн докум (Лек) Осн философии (Лек) Иностр
-  язык в проф деят (Пр) (Л)[Системное програ
- ммирование (Лек)]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260902-p2-РУПО-26/1-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260902T101500
-DTEND;TZID=Asia/Yekaterinburg:20260902T114500
-SUMMARY:Русский язык (Л)[11]\nОкунева О.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
- \nПреподаватель: Окунева О.А.\nАудитория: 
- Аудитория 11
-LOCATION:Аудитория 11
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Русский язык (Л)[11]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260902-p3-РУПО-26/1-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260902T120000
-DTEND;TZID=Asia/Yekaterinburg:20260902T133000
-SUMMARY:Физкультура. Инструктаж (П)[1]\nПатрак
- ов А.И.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Патраков А.И.\nАудитория:
-  Аудитория 1
-LOCATION:Аудитория 1
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Физкультура. Инструктаж (П)[1]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260902-p4-РУПО-26/1-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260902T140000
-DTEND;TZID=Asia/Yekaterinburg:20260902T153000
-SUMMARY:Литература (Л)[7]\nОкунева О.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Окунева О.А.\nАудитория: 
- Аудитория 7
-LOCATION:Аудитория 7
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Литература (Л)[7]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260903-p1-РУПО-26/1-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260903T083000
-DTEND;TZID=Asia/Yekaterinburg:20260903T100000
-SUMMARY:Иностр язык (П)[11]\nСкоросова А.В.
-DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: РУПО-26/1
- \nПреподаватель: Скоросова А.В.\nАудитори
- я: Аудитория 11
-LOCATION:Аудитория 11
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Иностр язык (П)[11]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260903-p2-РУПО-26/1-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260903T101500
-DTEND;TZID=Asia/Yekaterinburg:20260903T114500
-SUMMARY:Матем (Л)[11]\nБогданова К.В.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
- \nПреподаватель: Богданова К.В.\nАудитори
- я: Аудитория 11
-LOCATION:Аудитория 11
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матем (Л)[11]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260903-p3-РУПО-26/1-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260903T120000
-DTEND;TZID=Asia/Yekaterinburg:20260903T133000
-SUMMARY:Введ в спец (Л)[10]\nСатушев П.Ю.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Сатушев П.Ю.\nАудитория: 
- Аудитория 10
-LOCATION:Аудитория 10
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Введ в спец (Л)[10]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260904-p1-РУПО-26/1-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260904T083000
-DTEND;TZID=Asia/Yekaterinburg:20260904T100000
-SUMMARY:ОБиЗР (Л)[1]\nПатраков А.И.
-DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: РУПО-26/1
- \nПреподаватель: Патраков А.И.\nАудитория:
-  Аудитория 1
-LOCATION:Аудитория 1
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ОБиЗР (Л)[1]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260904-p2-РУПО-26/1-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260904T101500
-DTEND;TZID=Asia/Yekaterinburg:20260904T114500
-SUMMARY:Физика (Л)[8]\nАлпаева В.В.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
- \nПреподаватель: Алпаева В.В.\nАудитория: 
- Аудитория 8
-LOCATION:Аудитория 8
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Физика (Л)[8]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260904-p3-РУПО-26/1-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260904T120000
-DTEND;TZID=Asia/Yekaterinburg:20260904T133000
-SUMMARY:История (Л)[14]\nЗавьялова И.Е.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Завьялова И.Е.\nАудитори
- я: Аудитория 14
-LOCATION:Аудитория 14
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:История (Л)[14]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260904-p4-РУПО-26/1-Лист1@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260904T140000
-DTEND;TZID=Asia/Yekaterinburg:20260904T153000
-SUMMARY:Информат (Л)[1]\nДолгова В.Т.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Долгова В.Т.\nАудитория: 
- Аудитория 1
-LOCATION:Аудитория 1
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Информат (Л)[1]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260907-p1-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
-DTEND;TZID=Asia/Yekaterinburg:20260907T100000
-SUMMARY:Обществознание (Л)[11]\nХасанова М.Н.
-DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: РУПО-26/1
- \nПреподаватель: Хасанова М.Н.\nАудитория:
-  Аудитория 11
-LOCATION:Аудитория 11
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Обществознание (Л)[11]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260907-p2-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T101500
-DTEND;TZID=Asia/Yekaterinburg:20260907T114500
-SUMMARY:Русский язык (Л)[12]\nОкунева О.А.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
- \nПреподаватель: Окунева О.А.\nАудитория: 
- Аудитория 12
-LOCATION:Аудитория 12
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Русский язык (Л)[12]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260908-p2-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T101500
-DTEND;TZID=Asia/Yekaterinburg:20260908T114500
-SUMMARY:Химия (Л)[12]\nМалахова Е.Г.
-DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
- \nПреподаватель: Малахова Е.Г.\nАудитория:
-  Аудитория 12
-LOCATION:Аудитория 12
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Химия (Л)[12]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260908-p3-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
-DTEND;TZID=Asia/Yekaterinburg:20260908T133000
-SUMMARY:Литература (Л)[12]\nОкунева О.А.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Окунева О.А.\nАудитория: 
- Аудитория 12
-LOCATION:Аудитория 12
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Литература (Л)[12]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260908-p4-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T140000
-DTEND;TZID=Asia/Yekaterinburg:20260908T153000
-SUMMARY:Физика (Л)[12]\nАлпаева В.В.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Алпаева В.В.\nАудитория: 
- Аудитория 12
-LOCATION:Аудитория 12
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Физика (Л)[12]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260908-p5-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T154500
-DTEND;TZID=Asia/Yekaterinburg:20260908T171500
-SUMMARY:Кураторский час[12]\nОкунева О.А.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: РУПО-26/1
- \nПреподаватель: Окунева О.А.\nАудитория: 
- Аудитория 12
-LOCATION:Аудитория 12
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Кураторский час[12]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260909-p4-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T140000
-DTEND;TZID=Asia/Yekaterinburg:20260909T153000
-SUMMARY:Физика (П)[7]\nАлпаева В.В.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Алпаева В.В.\nАудитория: 
- Аудитория 7
-LOCATION:Аудитория 7
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Физика (П)[7]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260909-p5-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T154500
-DTEND;TZID=Asia/Yekaterinburg:20260909T171500
-SUMMARY:Введ в спец (Л)[8]\nСатушев П.Ю.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: РУПО-26/1
- \nПреподаватель: Сатушев П.Ю.\nАудитория: 
- Аудитория 8
-LOCATION:Аудитория 8
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Введ в спец (Л)[8]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260910-p4-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T140000
-DTEND;TZID=Asia/Yekaterinburg:20260910T153000
-SUMMARY:Информат (П)[8]\nДолгова В.Т.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Долгова В.Т.\nАудитория: 
- Аудитория 8
-LOCATION:Аудитория 8
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Информат (П)[8]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260910-p5-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T154500
-DTEND;TZID=Asia/Yekaterinburg:20260910T171500
-SUMMARY:История (Л)[5]\nЗавьялова И.Е.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: РУПО-26/1
- \nПреподаватель: Завьялова И.Е.\nАудитори
- я: Аудитория 5
-LOCATION:Аудитория 5
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:История (Л)[5]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260911-p4-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T140000
-DTEND;TZID=Asia/Yekaterinburg:20260911T153000
-SUMMARY:Матем (П)[7]\nБогданова К.В.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Богданова К.В.\nАудитори
- я: Аудитория 7
-LOCATION:Аудитория 7
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матем (П)[7]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260911-p5-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T154500
-DTEND;TZID=Asia/Yekaterinburg:20260911T171500
-SUMMARY:Химия (П)[12]\nМалахова Е.Г.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: РУПО-26/1
- \nПреподаватель: Малахова Е.Г.\nАудитория:
-  Аудитория 12
-LOCATION:Аудитория 12
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Химия (П)[12]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260912-p3-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
-DTEND;TZID=Asia/Yekaterinburg:20260912T133000
-SUMMARY:Введ в спец (П)[8]\nСатушев П.Ю.
-DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Сатушев П.Ю.\nАудитория: 
- Аудитория 8
-LOCATION:Аудитория 8
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Введ в спец (П)[8]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260912-p4-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260912T140000
-DTEND;TZID=Asia/Yekaterinburg:20260912T153000
-SUMMARY:Русский язык (Л)[5]\nОкунева О.А.
-DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
- \nПреподаватель: Окунева О.А.\nАудитория: 
- Аудитория 5
-LOCATION:Аудитория 5
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Русский язык (Л)[5]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260912-p5-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
-DTSTAMP:20260905T163056Z
-DTSTART;TZID=Asia/Yekaterinburg:20260912T154500
-DTEND;TZID=Asia/Yekaterinburg:20260912T171500
-SUMMARY:Матем (П)[7]\nБогданова К.В.
-DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: РУПО-26/1
- \nПреподаватель: Богданова К.В.\nАудитори
- я: Аудитория 7
-LOCATION:Аудитория 7
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матем (П)[7]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SKP Schedule Sync//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание РУПО-26/1
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:skp-20260901-p2-РУПО-26/1-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T101500
+DTEND;TZID=Asia/Yekaterinburg:20260901T114500
+SUMMARY:Кураторский час[12]\nОкунева О.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
+ \nПреподаватель: Окунева О.А.\nАудитория: 
+ Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Кураторский час[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260901-p3-РУПО-26/1-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T120000
+DTEND;TZID=Asia/Yekaterinburg:20260901T133000
+SUMMARY:Информатика. Инструктаж[10]\nСатушев П
+ .Ю.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Сатушев П.Ю.\nАудитория: 
+ Аудитория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Информатика. Инструктаж[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260901-p6-РУПО-26/1-01.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T172500
+DTEND;TZID=Asia/Yekaterinburg:20260901T185500
+SUMMARY:Системное программирование Разраб м
+ обильных приложений (Лек) Физкультура (П
+ р) Поддержка и тестирование программ мод
+ улей (Лек) Разраб программ модулей (Лек) М
+ енедж в проф деят (Лек) Эконом отрасли (Ле
+ к) Технология разработки программного о
+ беспечения (Лек) Инструм средства разраб
+  прогр обесп (Лек) Стандарт\, сертиф и тех
+ н докум (Лек) Осн философии (Лек) Иностр я
+ зык в проф деят (Пр) (Л)[Системное програм
+ мирование (Лек)]\nБогданова К.В.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: РУПО-26/1
+ \nПреподаватель: Богданова К.В.\nАудитори
+ я: Аудитория Системное программирование
+  (Лек)
+LOCATION:Аудитория Системное программирован
+ ие (Лек)
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Системное программирование Разра
+ б мобильных приложений (Лек) Физкультура
+  (Пр) Поддержка и тестирование программ м
+ одулей (Лек) Разраб программ модулей (Лек
+ ) Менедж в проф деят (Лек) Эконом отрасли (
+ Лек) Технология разработки программного
+  обеспечения (Лек) Инструм средства разр
+ аб прогр обесп (Лек) Стандарт\, сертиф и т
+ ехн докум (Лек) Осн философии (Лек) Иностр
+  язык в проф деят (Пр) (Л)[Системное програ
+ ммирование (Лек)]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p2-РУПО-26/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T101500
+DTEND;TZID=Asia/Yekaterinburg:20260902T114500
+SUMMARY:Русский язык (Л)[11]\nОкунева О.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
+ \nПреподаватель: Окунева О.А.\nАудитория: 
+ Аудитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Русский язык (Л)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p3-РУПО-26/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T120000
+DTEND;TZID=Asia/Yekaterinburg:20260902T133000
+SUMMARY:Физкультура. Инструктаж (П)[1]\nПатрак
+ ов А.И.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Патраков А.И.\nАудитория:
+  Аудитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физкультура. Инструктаж (П)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260902-p4-РУПО-26/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T140000
+DTEND;TZID=Asia/Yekaterinburg:20260902T153000
+SUMMARY:Литература (Л)[7]\nОкунева О.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Окунева О.А.\nАудитория: 
+ Аудитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Литература (Л)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p1-РУПО-26/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T083000
+DTEND;TZID=Asia/Yekaterinburg:20260903T100000
+SUMMARY:Иностр язык (П)[11]\nСкоросова А.В.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: РУПО-26/1
+ \nПреподаватель: Скоросова А.В.\nАудитори
+ я: Аудитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Иностр язык (П)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p2-РУПО-26/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T101500
+DTEND;TZID=Asia/Yekaterinburg:20260903T114500
+SUMMARY:Матем (Л)[11]\nБогданова К.В.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
+ \nПреподаватель: Богданова К.В.\nАудитори
+ я: Аудитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Матем (Л)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260903-p3-РУПО-26/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T120000
+DTEND;TZID=Asia/Yekaterinburg:20260903T133000
+SUMMARY:Введ в спец (Л)[10]\nСатушев П.Ю.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Сатушев П.Ю.\nАудитория: 
+ Аудитория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Введ в спец (Л)[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p1-РУПО-26/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T083000
+DTEND;TZID=Asia/Yekaterinburg:20260904T100000
+SUMMARY:ОБиЗР (Л)[1]\nПатраков А.И.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: РУПО-26/1
+ \nПреподаватель: Патраков А.И.\nАудитория:
+  Аудитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ОБиЗР (Л)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p2-РУПО-26/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T101500
+DTEND;TZID=Asia/Yekaterinburg:20260904T114500
+SUMMARY:Физика (Л)[8]\nАлпаева В.В.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
+ \nПреподаватель: Алпаева В.В.\nАудитория: 
+ Аудитория 8
+LOCATION:Аудитория 8
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физика (Л)[8]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p3-РУПО-26/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T120000
+DTEND;TZID=Asia/Yekaterinburg:20260904T133000
+SUMMARY:История (Л)[14]\nЗавьялова И.Е.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Завьялова И.Е.\nАудитори
+ я: Аудитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:История (Л)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260904-p4-РУПО-26/1-Лист1@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T140000
+DTEND;TZID=Asia/Yekaterinburg:20260904T153000
+SUMMARY:Информат (Л)[1]\nДолгова В.Т.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Долгова В.Т.\nАудитория: 
+ Аудитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Информат (Л)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p1-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Обществознание (Л)[11]\nХасанова М.Н.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: РУПО-26/1
+ \nПреподаватель: Хасанова М.Н.\nАудитория:
+  Аудитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Обществознание (Л)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260907-p2-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101500
+DTEND;TZID=Asia/Yekaterinburg:20260907T114500
+SUMMARY:Русский язык (Л)[12]\nОкунева О.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
+ \nПреподаватель: Окунева О.А.\nАудитория: 
+ Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Русский язык (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p2-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101500
+DTEND;TZID=Asia/Yekaterinburg:20260908T114500
+SUMMARY:Химия (Л)[12]\nМалахова Е.Г.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: РУПО-26/1
+ \nПреподаватель: Малахова Е.Г.\nАудитория:
+  Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Химия (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p3-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Литература (Л)[12]\nОкунева О.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Окунева О.А.\nАудитория: 
+ Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Литература (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p4-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T140000
+DTEND;TZID=Asia/Yekaterinburg:20260908T153000
+SUMMARY:Физика (Л)[12]\nАлпаева В.В.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Алпаева В.В.\nАудитория: 
+ Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физика (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260908-p5-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T154500
+DTEND;TZID=Asia/Yekaterinburg:20260908T171500
+SUMMARY:Кураторский час[12]\nОкунева О.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: РУПО-26/1
+ \nПреподаватель: Окунева О.А.\nАудитория: 
+ Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Кураторский час[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p4-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T140000
+DTEND;TZID=Asia/Yekaterinburg:20260909T153000
+SUMMARY:Физика (П)[7]\nАлпаева В.В.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Алпаева В.В.\nАудитория: 
+ Аудитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физика (П)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260909-p5-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T154500
+DTEND;TZID=Asia/Yekaterinburg:20260909T171500
+SUMMARY:Введ в спец (Л)[8]\nСатушев П.Ю.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: РУПО-26/1
+ \nПреподаватель: Сатушев П.Ю.\nАудитория: 
+ Аудитория 8
+LOCATION:Аудитория 8
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Введ в спец (Л)[8]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p4-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T140000
+DTEND;TZID=Asia/Yekaterinburg:20260910T153000
+SUMMARY:Информат (П)[8]\nДолгова В.Т.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Долгова В.Т.\nАудитория: 
+ Аудитория 8
+LOCATION:Аудитория 8
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Информат (П)[8]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260910-p5-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T154500
+DTEND;TZID=Asia/Yekaterinburg:20260910T171500
+SUMMARY:История (Л)[5]\nЗавьялова И.Е.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: РУПО-26/1
+ \nПреподаватель: Завьялова И.Е.\nАудитори
+ я: Аудитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:История (Л)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p4-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T140000
+DTEND;TZID=Asia/Yekaterinburg:20260911T153000
+SUMMARY:Матем (П)[7]\nБогданова К.В.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Богданова К.В.\nАудитори
+ я: Аудитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Матем (П)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260911-p5-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T154500
+DTEND;TZID=Asia/Yekaterinburg:20260911T171500
+SUMMARY:Химия (П)[12]\nМалахова Е.Г.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: РУПО-26/1
+ \nПреподаватель: Малахова Е.Г.\nАудитория:
+  Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Химия (П)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p3-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Введ в спец (П)[8]\nСатушев П.Ю.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Сатушев П.Ю.\nАудитория: 
+ Аудитория 8
+LOCATION:Аудитория 8
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Введ в спец (П)[8]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p4-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T140000
+DTEND;TZID=Asia/Yekaterinburg:20260912T153000
+SUMMARY:Русский язык (Л)[5]\nОкунева О.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: РУПО-26/1
+ \nПреподаватель: Окунева О.А.\nАудитория: 
+ Аудитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Русский язык (Л)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260912-p5-РУПО-26/1-07.09.2026-12.09.2026@skp-rasp.ru
+DTSTAMP:20260905T164533Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T154500
+DTEND;TZID=Asia/Yekaterinburg:20260912T171500
+SUMMARY:Матем (П)[7]\nБогданова К.В.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: РУПО-26/1
+ \nПреподаватель: Богданова К.В.\nАудитори
+ я: Аудитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Матем (П)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
