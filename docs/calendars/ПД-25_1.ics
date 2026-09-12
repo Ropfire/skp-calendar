@@ -15,8 +15,8 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:skp-20260901-p4-ПД-25/1-01.09.2026@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260901-p4-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260901T140000
 DTEND;TZID=Asia/Yekaterinburg:20260901T153000
 SUMMARY:Кураторский час[15]\nБогданова К.В.
@@ -32,8 +32,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260901-p5-ПД-25/1-01.09.2026@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260901-p5-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260901T154500
 DTEND;TZID=Asia/Yekaterinburg:20260901T171500
 SUMMARY:Начальная профессиональная подгото
@@ -52,45 +52,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260901-p6-ПД-25/1-01.09.2026@skp-rasp.ru
-DTSTAMP:20260912T123050Z
-DTSTART;TZID=Asia/Yekaterinburg:20260901T172500
-DTEND;TZID=Asia/Yekaterinburg:20260901T185500
-SUMMARY:Поддержка и тестирование программ м
- одулей Информационные технологии (Лек) О
- бесп качества функцион КС (Лек) Внедрени
- е и поддержка КС (Лек) Системное программ
- ирование (Лек) Технология разработки про
- граммного обеспечения (Лек) Разраб прогр
- амм модулей (Лек) Правов обесп проф деят (
- Лек) Осн алгоритм и программ (Лек) Технол
- огия разработки и защиты БД (Лек) Псих об
- щения (Лек) Физкультура (Пр) Иностр язык в
-  проф деят (Пр) (Л)[11]\nКоваленко Д.Р.
-DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-25/1\nП
- реподаватель: Коваленко Д.Р.\nАудитория: 
- Аудитория 11
-LOCATION:Аудитория 11
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Поддержка и тестирование программ
-  модулей Информационные технологии (Лек)
-  Обесп качества функцион КС (Лек) Внедрен
- ие и поддержка КС (Лек) Системное програм
- мирование (Лек) Технология разработки пр
- ограммного обеспечения (Лек) Разраб прог
- рамм модулей (Лек) Правов обесп проф деят
-  (Лек) Осн алгоритм и программ (Лек) Техно
- логия разработки и защиты БД (Лек) Псих о
- бщения (Лек) Физкультура (Пр) Иностр язык 
- в проф деят (Пр) (Л)[11]
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skp-20260902-p1-ПД-25/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260902-p1-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T083000
 DTEND;TZID=Asia/Yekaterinburg:20260902T100000
 SUMMARY:ТГП (Л)[Акт. зал]\nИванов В.Б.
@@ -106,8 +69,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260902-p2-ПД-25/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260902-p2-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T101500
 DTEND;TZID=Asia/Yekaterinburg:20260902T114500
 SUMMARY:Осн философии (Л)[15]\nХасанова М.Н.
@@ -123,8 +86,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260902-p3-ПД-25/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260902-p3-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T120000
 DTEND;TZID=Asia/Yekaterinburg:20260902T133000
 SUMMARY:Матем (Л)[5]\nАлпаева В.В.
@@ -140,8 +103,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260903-p1-ПД-25/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260903-p1-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T083000
 DTEND;TZID=Asia/Yekaterinburg:20260903T100000
 SUMMARY:ТГП (Л)[14]\nИванов В.Б.
@@ -157,8 +120,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260903-p2-ПД-25/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260903-p2-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T101500
 DTEND;TZID=Asia/Yekaterinburg:20260903T114500
 SUMMARY:Делопроизв и режим секрет (Л)[14]\nИван
@@ -175,8 +138,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260904-p5-ПД-25/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260904-p5-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260904T154500
 DTEND;TZID=Asia/Yekaterinburg:20260904T171500
 SUMMARY:Иностр язык (П)[1]\nСкоросова А.В.
@@ -192,8 +155,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260904-p6-ПД-25/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260904-p6-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260904T172500
 DTEND;TZID=Asia/Yekaterinburg:20260904T185500
 SUMMARY:История России (Л)[5]\nЗавьялова И.Е.
@@ -209,8 +172,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260905-p2-ПД-25/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260905-p2-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260905T101500
 DTEND;TZID=Asia/Yekaterinburg:20260905T114500
 SUMMARY:Матем (Л)[14]\nАлпаева В.В.
@@ -226,8 +189,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260905-p3-ПД-25/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260905-p3-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
 DTEND;TZID=Asia/Yekaterinburg:20260905T133000
 SUMMARY:Делопроизв и режим секрет (Л)[11]\nИван
@@ -244,8 +207,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260905-p4-ПД-25/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260905-p4-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260905T140000
 DTEND;TZID=Asia/Yekaterinburg:20260905T153000
 SUMMARY:Информ и ИТПД. Инструктаж (Л)[8]\nДолго
@@ -262,8 +225,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260905-p5-ПД-25/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260905-p5-ПД-25/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260905T154500
 DTEND;TZID=Asia/Yekaterinburg:20260905T171500
 SUMMARY:Физкультура. Инструктаж (П)[15]\nПатрак
@@ -281,7 +244,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260907-p5-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T154500
 DTEND;TZID=Asia/Yekaterinburg:20260907T171500
 SUMMARY:ТГП (Л)[14]\nИванов В.Б.
@@ -298,7 +261,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260907-p6-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T172500
 DTEND;TZID=Asia/Yekaterinburg:20260907T185500
 SUMMARY:Матем (П)[12]\nАлпаева В.В.
@@ -315,7 +278,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260908-p4-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T140000
 DTEND;TZID=Asia/Yekaterinburg:20260908T153000
 SUMMARY:ТГП (Л)[5]\nИванов В.Б.
@@ -332,7 +295,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260908-p5-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T154500
 DTEND;TZID=Asia/Yekaterinburg:20260908T171500
 SUMMARY:Осн философии (Л)[Акт. зал]\nХасанова М
@@ -350,7 +313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260908-p6-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T172500
 DTEND;TZID=Asia/Yekaterinburg:20260908T185500
 SUMMARY:Информ и ИТПД (Л)[8]\nДолгова В.Т.
@@ -367,7 +330,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p1-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
 DTEND;TZID=Asia/Yekaterinburg:20260909T100000
 SUMMARY:НПП (Л)[Акт. зал]\nПермяков А.А.
@@ -384,7 +347,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p2-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T101500
 DTEND;TZID=Asia/Yekaterinburg:20260909T114500
 SUMMARY:ТГП (П)[Акт. зал]\nИванов В.Б.
@@ -401,7 +364,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p3-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
 DTEND;TZID=Asia/Yekaterinburg:20260909T133000
 SUMMARY:НПП (Л)[14]\nПермяков А.А.
@@ -418,7 +381,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p4-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T140000
 DTEND;TZID=Asia/Yekaterinburg:20260909T153000
 SUMMARY:Кураторский час[5]\nБогданова К.В.
@@ -435,7 +398,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p5-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T154500
 DTEND;TZID=Asia/Yekaterinburg:20260909T171500
 SUMMARY:Консультация по пересдаче ОБиЗР\, БЖ[
@@ -454,7 +417,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260910-p2-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T100000
 DTEND;TZID=Asia/Yekaterinburg:20260910T130000
 SUMMARY:Физкультура "День здоровья"[Сайма]\nП
@@ -472,7 +435,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260910-p3-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T100000
 DTEND;TZID=Asia/Yekaterinburg:20260910T130000
 SUMMARY:Физкультура "День здоровья"[Сайма]\nП
@@ -490,7 +453,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260911-p1-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
 DTEND;TZID=Asia/Yekaterinburg:20260911T100000
 SUMMARY:Делопроизв и режим секрет (Л)\nИванов 
@@ -507,7 +470,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260911-p2-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T101500
 DTEND;TZID=Asia/Yekaterinburg:20260911T114500
 SUMMARY:ТГП (Л)\nИванов В.Б.
@@ -523,7 +486,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260911-p4-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T140000
 DTEND;TZID=Asia/Yekaterinburg:20260911T150000
 SUMMARY:Физкультура+ Отработка "н". ОтраСпорт
@@ -542,7 +505,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260912-p4-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260912T140000
 DTEND;TZID=Asia/Yekaterinburg:20260912T153000
 SUMMARY:Констит право России (Л)[7]\nСемёнова Т
@@ -560,7 +523,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260912-p5-ПД-25/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260912T154500
 DTEND;TZID=Asia/Yekaterinburg:20260912T171500
 SUMMARY:История России (Л)[12]\nЗавьялова И.Е.
@@ -572,6 +535,352 @@ STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:История России (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260914-p1-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T083000
+DTEND;TZID=Asia/Yekaterinburg:20260914T100000
+SUMMARY:История России (Л)[Акт. зал]\nЗавьялов
+ а И.Е.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-25/1\nП
+ реподаватель: Завьялова И.Е.\nАудитория: 
+ Аудитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:История России (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260914-p2-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T101500
+DTEND;TZID=Asia/Yekaterinburg:20260914T114500
+SUMMARY:НПП (Л)[Акт. зал]\nПермяков А.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-25/1\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:НПП (Л)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260915-p4-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T140000
+DTEND;TZID=Asia/Yekaterinburg:20260915T153000
+SUMMARY:Констит право России (Л)[14]\nСемёнова 
+ Т.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-25/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Констит право России (Л)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260915-p5-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T154500
+DTEND;TZID=Asia/Yekaterinburg:20260915T171500
+SUMMARY:Иностр язык (П)[14]\nСкоросова А.В.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-25/1\nП
+ реподаватель: Скоросова А.В.\nАудитория: 
+ Аудитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Иностр язык (П)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260915-p6-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T172500
+DTEND;TZID=Asia/Yekaterinburg:20260915T185500
+SUMMARY:История России (Л)[7]\nЗавьялова И.Е.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-25/1\nП
+ реподаватель: Завьялова И.Е.\nАудитория: 
+ Аудитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:История России (Л)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260916-p1-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T083000
+DTEND;TZID=Asia/Yekaterinburg:20260916T100000
+SUMMARY:ОБиЗР (Пересд Дифф.зач)[12]\nПатраков А.
+ И.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-25/1\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ОБиЗР (Пересд Дифф.зач)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260916-p2-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T101500
+DTEND;TZID=Asia/Yekaterinburg:20260916T114500
+SUMMARY:Констит право России (Л)\nСемёнова Т.А
+ .
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-25/1\nП
+ реподаватель: Семёнова Т.А.\nФормат: Виде
+ о-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Констит право России (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260916-p5-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T140000
+DTEND;TZID=Asia/Yekaterinburg:20260916T150000
+SUMMARY:Физкультура Спорт. зал (П)[Геолог]\nПа
+ траков А.И.
+DESCRIPTION:Пара: 5 пара (14:00-15:00)\nГруппа: ПД-25/1\nП
+ реподаватель: Патраков А.И.\nАудитория: М
+ есто проведения Геолог
+LOCATION:Место проведения Геолог
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физкультура Спорт. зал (П)[Геолог]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260916-p6-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T172500
+DTEND;TZID=Asia/Yekaterinburg:20260916T185500
+SUMMARY:Отработка по дисциплине Физика (П)[15]\
+ nАлпаева В.В.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-25/1\nП
+ реподаватель: Алпаева В.В.\nАудитория: Ау
+ дитория 15\nТип: Отработка
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Отработка по дисциплине Физика (П)[
+ 15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260917-p1-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
+DTEND;TZID=Asia/Yekaterinburg:20260917T100000
+SUMMARY:ТГП (Л)[11]\nИванов В.Б.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-25/1\nП
+ реподаватель: Иванов В.Б.\nАудитория: Ауд
+ итория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ТГП (Л)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260917-p2-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101500
+DTEND;TZID=Asia/Yekaterinburg:20260917T114500
+SUMMARY:Информ и ИТПД (П)[8]\nДолгова В.Т.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-25/1\nП
+ реподаватель: Долгова В.Т.\nАудитория: Ау
+ дитория 8
+LOCATION:Аудитория 8
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Информ и ИТПД (П)[8]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260917-p3-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
+DTEND;TZID=Asia/Yekaterinburg:20260917T133000
+SUMMARY:Констит право России (П)[14]\nСемёнова 
+ Т.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-25/1\nП
+ реподаватель: Семёнова Т.А.\nАудитория: А
+ удитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Констит право России (П)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260917-p4-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T140000
+DTEND;TZID=Asia/Yekaterinburg:20260917T153000
+SUMMARY:Информ и ИТПД (Л)[8]\nДолгова В.Т.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-25/1\nП
+ реподаватель: Долгова В.Т.\nАудитория: Ау
+ дитория 8
+LOCATION:Аудитория 8
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Информ и ИТПД (Л)[8]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260918-p1-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T083000
+DTEND;TZID=Asia/Yekaterinburg:20260918T100000
+SUMMARY:Матем (Л)\nАлпаева В.В.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-25/1\nП
+ реподаватель: Алпаева В.В.\nФормат: Видео-
+ лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Матем (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260918-p4-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T140000
+DTEND;TZID=Asia/Yekaterinburg:20260918T150000
+SUMMARY:Физкультура Спорт зал (П)[Геолог]\nПат
+ раков А.И.
+DESCRIPTION:Пара: 4 пара (14:00-15:00)\nГруппа: ПД-25/1\nП
+ реподаватель: Патраков А.И.\nАудитория: М
+ есто проведения Геолог
+LOCATION:Место проведения Геолог
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физкультура Спорт зал (П)[Геолог]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260918-p6-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T172500
+DTEND;TZID=Asia/Yekaterinburg:20260918T185500
+SUMMARY:Матем (Л)\nАлпаева В.В.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-25/1\nП
+ реподаватель: Алпаева В.В.\nФормат: Видео-
+ лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Матем (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260919-p2-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T101500
+DTEND;TZID=Asia/Yekaterinburg:20260919T114500
+SUMMARY:Матем (П)[15]\nАлпаева В.В.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-25/1\nП
+ реподаватель: Алпаева В.В.\nАудитория: Ау
+ дитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Матем (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260919-p3-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T120000
+DTEND;TZID=Asia/Yekaterinburg:20260919T133000
+SUMMARY:ТГП (П)[15]\nИванов В.Б.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-25/1\nП
+ реподаватель: Иванов В.Б.\nАудитория: Ауд
+ итория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ТГП (П)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260919-p4-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T140000
+DTEND;TZID=Asia/Yekaterinburg:20260919T153000
+SUMMARY:НПП (П)[5]\nПермяков А.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-25/1\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:НПП (П)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260919-p5-ПД-25/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T154500
+DTEND;TZID=Asia/Yekaterinburg:20260919T171500
+SUMMARY:Осн философии (Л)[15]\nХасанова М.Н.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-25/1\nП
+ реподаватель: Хасанова М.Н.\nАудитория: А
+ удитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн философии (Л)[15]
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

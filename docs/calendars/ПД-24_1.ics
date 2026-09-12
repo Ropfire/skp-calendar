@@ -15,8 +15,8 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:skp-20260901-p5-ПД-24/1-01.09.2026@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260901-p5-ПД-24/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260901T154500
 DTEND;TZID=Asia/Yekaterinburg:20260901T171500
 SUMMARY:Кураторский час[Акт. зал]\nХасанова М.
@@ -33,17 +33,12 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260901-p6-ПД-24/1-01.09.2026@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260901-p6-ПД-24/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260901T172500
 DTEND;TZID=Asia/Yekaterinburg:20260901T185500
-SUMMARY:Физическая культура.Инструктаж Физк
- ультура Информат (Лек) Основы проект. дея
- т. (Лек) Обществознание (Лек) Матем (Лек) Г
- еография (Лек) Русский язык (Лек) Введ в с
- пец. Право (Лек) История (Лек) Биология (Ле
- к) Литература (Лек) (П)[Акт. зал]\nПатраков 
- А.И.
+SUMMARY:Физическая культура. Инструктаж[Акт.
+  зал]\nПатраков А.И.
 DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-24/1\nП
  реподаватель: Патраков А.И.\nАудитория: А
  удитория Акт. зал
@@ -51,18 +46,14 @@ LOCATION:Аудитория Акт. зал
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Физическая культура.Инструктаж Фи
- зкультура Информат (Лек) Основы проект. д
- еят. (Лек) Обществознание (Лек) Матем (Лек)
-  География (Лек) Русский язык (Лек) Введ в 
- спец. Право (Лек) История (Лек) Биология (Л
- ек) Литература (Лек) (П)[Акт. зал]
+DESCRIPTION:Физическая культура. Инструктаж[А
+ кт. зал]
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260902-p3-ПД-24/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260902-p3-ПД-24/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T120000
 DTEND;TZID=Asia/Yekaterinburg:20260902T133000
 SUMMARY:Труд право (Л)[15]\nСемёнова Т.А.
@@ -78,8 +69,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260902-p4-ПД-24/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260902-p4-ПД-24/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T140000
 DTEND;TZID=Asia/Yekaterinburg:20260902T153000
 SUMMARY:Уголовный процесс (Л)[15]\nПермяков А.А.
@@ -95,8 +86,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260903-p3-ПД-24/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260903-p3-ПД-24/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T120000
 DTEND;TZID=Asia/Yekaterinburg:20260903T133000
 SUMMARY:Проф.этика (Л)[11]\nМалова М.С.
@@ -112,8 +103,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260903-p4-ПД-24/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260903-p4-ПД-24/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T140000
 DTEND;TZID=Asia/Yekaterinburg:20260903T153000
 SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
@@ -130,8 +121,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260903-p5-ПД-24/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260903-p5-ПД-24/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T154500
 DTEND;TZID=Asia/Yekaterinburg:20260903T171500
 SUMMARY:ТСП (Л)[15]\nПермяков А.А.
@@ -147,8 +138,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260904-p5-ПД-24/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260904-p5-ПД-24/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260904T154500
 DTEND;TZID=Asia/Yekaterinburg:20260904T171500
 SUMMARY:Гражд право и процесс (Л)[Акт. зал]\nКу
@@ -165,8 +156,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260904-p6-ПД-24/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260904-p6-ПД-24/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260904T172500
 DTEND;TZID=Asia/Yekaterinburg:20260904T185500
 SUMMARY:Уголовноепроцесс (Л)[Акт. зал]\nПермяк
@@ -183,8 +174,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260905-p1-ПД-24/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260905-p1-ПД-24/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
 DTEND;TZID=Asia/Yekaterinburg:20260905T100000
 SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
@@ -201,8 +192,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:skp-20260905-p2-ПД-24/1-Лист1@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+UID:skp-20260905-p2-ПД-24/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp.ru
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260905T101500
 DTEND;TZID=Asia/Yekaterinburg:20260905T114500
 SUMMARY:Огневая подготовка (Л)[Акт. зал]\nПерм
@@ -220,7 +211,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260907-p2-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T101500
 DTEND;TZID=Asia/Yekaterinburg:20260907T114500
 SUMMARY:Консультация по пересдаче ТСП[Акт. з
@@ -239,7 +230,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260907-p3-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
 DTEND;TZID=Asia/Yekaterinburg:20260907T133000
 SUMMARY:Уголовное право (КП)[7]\nПермяков А.А.
@@ -256,7 +247,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260907-p4-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T140000
 DTEND;TZID=Asia/Yekaterinburg:20260907T153000
 SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
@@ -274,7 +265,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260907-p5-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T154500
 DTEND;TZID=Asia/Yekaterinburg:20260907T171500
 SUMMARY:Уголовное право (Л)[15]\nПермяков А.А.
@@ -291,7 +282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260907-p6-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T172500
 DTEND;TZID=Asia/Yekaterinburg:20260907T185500
 SUMMARY:БЖ (Л)[15]\nПатраков А.И.
@@ -308,7 +299,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260908-p2-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T101500
 DTEND;TZID=Asia/Yekaterinburg:20260908T114500
 SUMMARY:Гражд право и процесс (Л)[Акт. зал]\nКу
@@ -326,7 +317,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260908-p3-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
 DTEND;TZID=Asia/Yekaterinburg:20260908T133000
 SUMMARY:Гражд право и процесс (Л)[Акт. зал]\nКу
@@ -344,7 +335,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260908-p4-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T140000
 DTEND;TZID=Asia/Yekaterinburg:20260908T153000
 SUMMARY:ТСП (Л)[Акт. зал]\nПермяков А.А.
@@ -361,7 +352,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260908-p5-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T154500
 DTEND;TZID=Asia/Yekaterinburg:20260908T171500
 SUMMARY:Уголовный процесс (П)[11]\nПермяков А.А.
@@ -378,7 +369,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p3-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T130000
 DTEND;TZID=Asia/Yekaterinburg:20260909T140000
 SUMMARY:Физкультура Спорт. зал (П)[Геолог]\nПа
@@ -396,7 +387,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p5-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T154500
 DTEND;TZID=Asia/Yekaterinburg:20260909T171500
 SUMMARY:Уголовный процесс (Л)\nПермяков А.А.
@@ -412,7 +403,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p6-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T172500
 DTEND;TZID=Asia/Yekaterinburg:20260909T185500
 SUMMARY:Уголовный процесс (Л)\nПермяков А.А.
@@ -428,7 +419,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260910-p5-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T154500
 DTEND;TZID=Asia/Yekaterinburg:20260910T171500
 SUMMARY:Иностр язык (П)\nСкоросова А.В.
@@ -444,7 +435,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260910-p6-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T172500
 DTEND;TZID=Asia/Yekaterinburg:20260910T185500
 SUMMARY:Иностр язык (П)\nСкоросова А.В.
@@ -460,7 +451,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260911-p2-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T101500
 DTEND;TZID=Asia/Yekaterinburg:20260911T114500
 SUMMARY:Консультация по пересдаче НПП[15]\nПер
@@ -478,7 +469,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260911-p3-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
 DTEND;TZID=Asia/Yekaterinburg:20260911T133000
 SUMMARY:Уголовное право (Л)[Акт. зал]\nПермяко
@@ -496,7 +487,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260911-p4-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T140000
 DTEND;TZID=Asia/Yekaterinburg:20260911T153000
 SUMMARY:Иностр язык (П)[5]\nСкоросова А.В.
@@ -513,7 +504,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260911-p5-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T154500
 DTEND;TZID=Asia/Yekaterinburg:20260911T171500
 SUMMARY:Уголовный процесс (П)[7]\nПермяков А.А.
@@ -530,7 +521,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260912-p1-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
 DTEND;TZID=Asia/Yekaterinburg:20260912T100000
 SUMMARY:Гражд право и процесс (Л)[15]\nКустиков
@@ -548,7 +539,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260912-p2-ПД-24/1-07.09-12.09.2026 2 неделя@skp-rasp.ru
-DTSTAMP:20260912T123050Z
+DTSTAMP:20260912T155613Z
 DTSTART;TZID=Asia/Yekaterinburg:20260912T101500
 DTEND;TZID=Asia/Yekaterinburg:20260912T114500
 SUMMARY:Гражд право и процесс (Л)[15]\nКустиков
@@ -561,6 +552,92 @@ STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Гражд право и процесс (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260915-p1-ПД-24/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T083000
+DTEND;TZID=Asia/Yekaterinburg:20260915T100000
+SUMMARY:БЖ Медицина (Л)[11]\nПатраков А.И.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-24/1\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:БЖ Медицина (Л)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260915-p2-ПД-24/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T101500
+DTEND;TZID=Asia/Yekaterinburg:20260915T114500
+SUMMARY:БЖ Медицина (Л)[1]\nПатраков А.И.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/1\nП
+ реподаватель: Патраков А.И.\nАудитория: А
+ удитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:БЖ Медицина (Л)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260916-p2-ПД-24/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T101500
+DTEND;TZID=Asia/Yekaterinburg:20260916T114500
+SUMMARY:ТСП (Пересд Дифф.зачёта)[Акт. зал]\nПер
+ мяков А.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-24/1\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория Акт. зал\nТип: Дифф. зачёт
+LOCATION:Аудитория Акт. зал
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ТСП (Пересд Дифф.зачёта)[Акт. зал]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260919-p5-ПД-24/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T154500
+DTEND;TZID=Asia/Yekaterinburg:20260919T171500
+SUMMARY:НПП (Пересдача ДЗ и Экз.)[5]\nПермяков А
+ .А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-24/1\nП
+ реподаватель: Пермяков А.А.\nАудитория: А
+ удитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:НПП (Пересдача ДЗ и Экз.)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260919-p6-ПД-24/1-14.09-19.09.2026 3 неделя@skp-rasp.ru
+DTSTAMP:20260912T155613Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T172500
+DTEND;TZID=Asia/Yekaterinburg:20260919T185500
+SUMMARY:БЖ Медицина (Л)\nПатраков А.И.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-24/1\nП
+ реподаватель: Патраков А.И.\nФормат: Виде
+ о-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:БЖ Медицина (Л)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
