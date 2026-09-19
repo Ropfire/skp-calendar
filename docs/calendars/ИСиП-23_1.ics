@@ -17,7 +17,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:skp-20260901-p4-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260901T140000
 DTEND;TZID=Asia/Yekaterinburg:20260901T153000
 SUMMARY:Кураторский час[5]\nТрачук Т.С.
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260901-p5-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260901T154500
 DTEND;TZID=Asia/Yekaterinburg:20260901T171500
 SUMMARY:Разработка мобильных приложений. Ин
@@ -55,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260902-p4-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T140000
 DTEND;TZID=Asia/Yekaterinburg:20260902T153000
 SUMMARY:Системное программирование (Л)[4]\nКуз
@@ -74,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260902-p5-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T154500
 DTEND;TZID=Asia/Yekaterinburg:20260902T171500
 SUMMARY:Разраб мобильных приложений (Л)[11]\nКу
@@ -93,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260902-p6-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T172500
 DTEND;TZID=Asia/Yekaterinburg:20260902T185500
 SUMMARY:Физкультура. Инструктаж (П)[11]\nПатрак
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260903-p1-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T083000
 DTEND;TZID=Asia/Yekaterinburg:20260903T100000
 SUMMARY:Поддержка и тестирование программ м
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260903-p2-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T101500
 DTEND;TZID=Asia/Yekaterinburg:20260903T114500
 SUMMARY:Разраб программ модулей (Л)[4]\nКрючко
@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260903-p3-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T120000
 DTEND;TZID=Asia/Yekaterinburg:20260903T133000
 SUMMARY:Менедж в проф деят (Л)[5]\nСемёнова Т.А.
@@ -169,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260904-p3-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260904T120000
 DTEND;TZID=Asia/Yekaterinburg:20260904T133000
 SUMMARY:Стандарт\, сертиф и техн докум (Л)[10]\nК
@@ -188,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260904-p4-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260904T140000
 DTEND;TZID=Asia/Yekaterinburg:20260904T153000
 SUMMARY:Эконом отрасли (Л)[11]\nСемёнова Т.А.
@@ -206,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260904-p5-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260904T154500
 DTEND;TZID=Asia/Yekaterinburg:20260904T171500
 SUMMARY:Разраб программ модулей (Л)[7]\nКрючко
@@ -225,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260904-p6-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260904T172500
 DTEND;TZID=Asia/Yekaterinburg:20260904T185500
 SUMMARY:Инструм средства разраб прогр обесп 
@@ -245,7 +245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260905-p1-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
 DTEND;TZID=Asia/Yekaterinburg:20260905T100000
 SUMMARY:Стандарт\, сертиф и техн докум (Л)[5]\nК
@@ -264,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260905-p2-ИСиП-23/1-31.08.2026-05.09.2026, 1 нед.@skp-rasp
  .ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260905T101500
 DTEND;TZID=Asia/Yekaterinburg:20260905T114500
 SUMMARY:Осн философии (Л)[5]\nХасанова М.Н.
@@ -282,7 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260907-p3-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
 DTEND;TZID=Asia/Yekaterinburg:20260907T133000
 SUMMARY:Технология разработки программного 
@@ -302,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260907-p4-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T140000
 DTEND;TZID=Asia/Yekaterinburg:20260907T153000
 SUMMARY:Осн философии (Л)[11]\nХасанова М.Н.
@@ -320,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260907-p5-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T154500
 DTEND;TZID=Asia/Yekaterinburg:20260907T171500
 SUMMARY:Менедж в проф деят (П)[11]\nСемёнова Т.А.
@@ -338,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260908-p1-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
 DTEND;TZID=Asia/Yekaterinburg:20260908T100000
 SUMMARY:Менедж в проф деят (Л)\nСемёнова Т.А.
@@ -355,7 +355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260908-p4-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T140000
 DTEND;TZID=Asia/Yekaterinburg:20260908T150000
 SUMMARY:Физкультура+ Отработка "н". Тренаж. за
@@ -375,7 +375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260908-p6-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T172500
 DTEND;TZID=Asia/Yekaterinburg:20260908T185500
 SUMMARY:Осн философии (Л)\nХасанова М.Н.
@@ -392,7 +392,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p3-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
 DTEND;TZID=Asia/Yekaterinburg:20260909T133000
 SUMMARY:Разраб программ модулей (Л)[12]\nКрючко
@@ -411,7 +411,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p4-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T140000
 DTEND;TZID=Asia/Yekaterinburg:20260909T153000
 SUMMARY:Осн философии (П)[11]\nХасанова М.Н.
@@ -429,7 +429,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p5-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T154500
 DTEND;TZID=Asia/Yekaterinburg:20260909T171500
 SUMMARY:Иностр язык в проф деят (П)[12]\nСкоросо
@@ -448,7 +448,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260909-p6-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T172500
 DTEND;TZID=Asia/Yekaterinburg:20260909T185500
 SUMMARY:Системное программирование (Л)[11]\nКу
@@ -467,7 +467,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260910-p1-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
 DTEND;TZID=Asia/Yekaterinburg:20260910T100000
 SUMMARY:Разраб мобильных приложений (Л)[11]\nКу
@@ -486,7 +486,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260910-p2-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T101500
 DTEND;TZID=Asia/Yekaterinburg:20260910T114500
 SUMMARY:Стандарт\, сертиф и техн докум (П)[10]\nК
@@ -505,7 +505,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260911-p5-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T154500
 DTEND;TZID=Asia/Yekaterinburg:20260911T171500
 SUMMARY:Системное программирование (Л)[4]\nКуз
@@ -524,7 +524,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260911-p6-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T172500
 DTEND;TZID=Asia/Yekaterinburg:20260911T185500
 SUMMARY:Стандарт\, сертиф и техн докум (П)[10]\nК
@@ -543,7 +543,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260912-p4-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260912T140000
 DTEND;TZID=Asia/Yekaterinburg:20260912T153000
 SUMMARY:Инструм средства разраб прогр обесп 
@@ -563,7 +563,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260912-p5-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260912T154500
 DTEND;TZID=Asia/Yekaterinburg:20260912T171500
 SUMMARY:Технология разработки программного 
@@ -583,7 +583,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260912-p6-ИСиП-23/1-07.09-12.09.2026 2 неделя@skp-rasp.
  ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260912T172500
 DTEND;TZID=Asia/Yekaterinburg:20260912T185500
 SUMMARY:Разраб программ модулей (Л)[5]\nКрючко
@@ -601,7 +601,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260914-p5-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T154500
 DTEND;TZID=Asia/Yekaterinburg:20260914T171500
 SUMMARY:Осн философии (П)[7]\nХасанова М.Н.
@@ -618,7 +618,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260914-p6-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T172500
 DTEND;TZID=Asia/Yekaterinburg:20260914T185500
 SUMMARY:Разраб мобильных приложений (П)[4]\nКу
@@ -636,7 +636,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260915-p1-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T083000
 DTEND;TZID=Asia/Yekaterinburg:20260915T100000
 SUMMARY:Инструм средства разраб прогр обесп 
@@ -655,7 +655,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260915-p2-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T101500
 DTEND;TZID=Asia/Yekaterinburg:20260915T114500
 SUMMARY:Разраб программ модулей (Л)[5]\nКрючко
@@ -673,7 +673,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260915-p3-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T120000
 DTEND;TZID=Asia/Yekaterinburg:20260915T133000
 SUMMARY:Системное программирование (Л)[Акт. з
@@ -692,7 +692,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260915-p6-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T172500
 DTEND;TZID=Asia/Yekaterinburg:20260915T185500
 SUMMARY:Отработка по дисциплине Осн алгорит 
@@ -711,7 +711,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260916-p2-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T110000
 DTEND;TZID=Asia/Yekaterinburg:20260916T120000
 SUMMARY:Физкультура Тренаж зал (П)[Геолог]\nПа
@@ -729,7 +729,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260916-p5-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T154500
 DTEND;TZID=Asia/Yekaterinburg:20260916T171500
 SUMMARY:Эконом отрасли (Л)\nСемёнова Т.А.
@@ -745,7 +745,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260916-p6-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T172500
 DTEND;TZID=Asia/Yekaterinburg:20260916T185500
 SUMMARY:Осн философии (Л)\nХасанова М.Н.
@@ -761,7 +761,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260917-p1-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
 DTEND;TZID=Asia/Yekaterinburg:20260917T100000
 SUMMARY:Технология разработки программного 
@@ -780,7 +780,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260917-p2-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T101500
 DTEND;TZID=Asia/Yekaterinburg:20260917T114500
 SUMMARY:Менедж в проф деят (Л)[5]\nСемёнова Т.А.
@@ -797,7 +797,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260917-p3-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
 DTEND;TZID=Asia/Yekaterinburg:20260917T133000
 SUMMARY:Поддержка и тестирование программ м
@@ -816,7 +816,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260917-p5-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T154500
 DTEND;TZID=Asia/Yekaterinburg:20260917T171500
 SUMMARY:Отработка по дисциплинеВнедрение и 
@@ -835,7 +835,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260918-p1-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T083000
 DTEND;TZID=Asia/Yekaterinburg:20260918T100000
 SUMMARY:Разраб программ модулей (П)[4]\nКрючко
@@ -853,7 +853,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260918-p2-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T101500
 DTEND;TZID=Asia/Yekaterinburg:20260918T114500
 SUMMARY:Осн философии (Л)[5]\nХасанова М.Н.
@@ -870,7 +870,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260918-p3-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T120000
 DTEND;TZID=Asia/Yekaterinburg:20260918T133000
 SUMMARY:Стандарт\, сертиф и техн докум (П)[10]\nК
@@ -888,7 +888,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260918-p6-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T172500
 DTEND;TZID=Asia/Yekaterinburg:20260918T185500
 SUMMARY:Отработка по дисциплинам Разработка
@@ -909,7 +909,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260919-p1-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260919T083000
 DTEND;TZID=Asia/Yekaterinburg:20260919T100000
 SUMMARY:Стандарт\, сертиф и техн докум (Л)[5]\nК
@@ -927,7 +927,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260919-p2-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260919T101500
 DTEND;TZID=Asia/Yekaterinburg:20260919T114500
 SUMMARY:Разраб программ модулей (КП)[4]\nКрючк
@@ -945,7 +945,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skp-20260919-p3-ИСиП-23/1-Лист1@skp-rasp.ru
-DTSTAMP:20260919T073937Z
+DTSTAMP:20260919T124615Z
 DTSTART;TZID=Asia/Yekaterinburg:20260919T120000
 DTEND;TZID=Asia/Yekaterinburg:20260919T133000
 SUMMARY:Осн философии (Л)[11]\nХасанова М.Н.
@@ -957,6 +957,410 @@ STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Осн философии (Л)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260921-p1-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T083000
+DTEND;TZID=Asia/Yekaterinburg:20260921T100000
+SUMMARY:Консультация по пересдаче дисциплин
+ ам Разработка мобильных приложений\, Сис
+ темное программирование[4]\nКузнецов А.Н.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Кузнецов А.Н.\nАудитория:
+  Аудитория 4\nТип: Консультация
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Консультация по пересдаче дисципл
+ инам Разработка мобильных приложений\, С
+ истемное программирование[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260921-p4-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T140000
+DTEND;TZID=Asia/Yekaterinburg:20260921T153000
+SUMMARY:Разраб мобильных приложений (Л)[4]\nКу
+ знецов А.Н.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Кузнецов А.Н.\nАудитория:
+  Аудитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Разраб мобильных приложений (Л)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260921-p5-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T154500
+DTEND;TZID=Asia/Yekaterinburg:20260921T171500
+SUMMARY:Иностр язык в проф деят (П)[5]\nСкоросо
+ ва А.В.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Скоросова А.В.\nАудитори
+ я: Аудитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Иностр язык в проф деят (П)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260922-p1-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
+DTEND;TZID=Asia/Yekaterinburg:20260922T100000
+SUMMARY:Стандарт\, сертиф и техн докум (П)[10]\nК
+ оваленко Д.Р.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Коваленко Д.Р.\nАудитори
+ я: Аудитория 10
+LOCATION:Аудитория 10
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Стандарт\, сертиф и техн докум (П)[10]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260922-p2-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101500
+DTEND;TZID=Asia/Yekaterinburg:20260922T114500
+SUMMARY:Разраб программ модулей (П)[4]\nКрючко
+ в В.В.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Крючков В.В.\nАудитория: 
+ Аудитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Разраб программ модулей (П)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260922-p3-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T120000
+DTEND;TZID=Asia/Yekaterinburg:20260922T133000
+SUMMARY:Осн философии (Л)[7]\nХасанова М.Н.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Хасанова М.Н.\nАудитория:
+  Аудитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Осн философии (Л)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260922-p4-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T140000
+DTEND;TZID=Asia/Yekaterinburg:20260922T153000
+SUMMARY:Инструм средства разраб прогр обесп 
+ (Л)[7]\nКрючков В.В.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Крючков В.В.\nАудитория: 
+ Аудитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Инструм средства разраб прогр обе
+ сп (Л)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260922-p5-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T154500
+DTEND;TZID=Asia/Yekaterinburg:20260922T171500
+SUMMARY:Кураторский час (Л)[5]\nТрачук Т.С.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Трачук Т.С.\nАудитория: А
+ удитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Кураторский час (Л)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260923-p1-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T083000
+DTEND;TZID=Asia/Yekaterinburg:20260923T100000
+SUMMARY:Разраб мобильных приложений (П)[4]\nКу
+ знецов А.Н.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Кузнецов А.Н.\nАудитория:
+  Аудитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Разраб мобильных приложений (П)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260923-p2-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T101500
+DTEND;TZID=Asia/Yekaterinburg:20260923T114500
+SUMMARY:Разраб программ модулей (П)[4]\nКрючко
+ в В.В.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Крючков В.В.\nАудитория: 
+ Аудитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Разраб программ модулей (П)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260923-p3-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
+DTEND;TZID=Asia/Yekaterinburg:20260923T133000
+SUMMARY:Системное программирование (П)[4]\nКуз
+ нецов А.Н.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Кузнецов А.Н.\nАудитория:
+  Аудитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Системное программирование (П)[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260923-p4-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T140000
+DTEND;TZID=Asia/Yekaterinburg:20260923T153000
+SUMMARY:Поддержка и тестирование программ м
+ одулей (Л)[8]\nКоваленко Д.Р.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Коваленко Д.Р.\nАудитори
+ я: Аудитория 8
+LOCATION:Аудитория 8
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Поддержка и тестирование программ
+  модулей (Л)[8]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260924-p1-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
+DTEND;TZID=Asia/Yekaterinburg:20260924T100000
+SUMMARY:Менедж в проф деят (Л)\nСемёнова Т.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Семёнова Т.А.\nФормат: Ви
+ део-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Менедж в проф деят (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260924-p2-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T101500
+DTEND;TZID=Asia/Yekaterinburg:20260924T114500
+SUMMARY:Менедж в проф деят (П)\nСемёнова Т.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Семёнова Т.А.\nФормат: Ви
+ део-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Менедж в проф деят (П)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260924-p4-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T133000
+DTEND;TZID=Asia/Yekaterinburg:20260924T150000
+SUMMARY:Физкультура + отработка за прошлый у
+ ч. год (П)[Снежинка]\nПатраков А.И.
+DESCRIPTION:Пара: 4 пара (13:30-15:00)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Патраков А.И.\nАудитория:
+  Аудитория Снежинка\nТип: Отработка
+LOCATION:Аудитория Снежинка
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физкультура + отработка за прошлый
+  уч. год (П)[Снежинка]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260924-p5-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T154500
+DTEND;TZID=Asia/Yekaterinburg:20260924T171500
+SUMMARY:Консультация по пересдаче дисциплин
+ ам Внедрение и поддержка КС\, Основы алго
+ ритмизации и программ[15]\nКузнецов А.Н.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Кузнецов А.Н.\nАудитория:
+  Аудитория 15\nТип: Консультация
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Консультация по пересдаче дисципл
+ инам Внедрение и поддержка КС\, Основы ал
+ горитмизации и программ[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260925-p1-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
+DTEND;TZID=Asia/Yekaterinburg:20260925T100000
+SUMMARY:Отработка+ Консультация по дисципли
+ не Технология разработки программного о
+ беспечения[4]\nКузнецов А.Н.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Кузнецов А.Н.\nАудитория:
+  Аудитория 4\nТип: Консультация
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Отработка+ Консультация по дисцип
+ лине Технология разработки программног
+ о обеспечения[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260925-p4-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T140000
+DTEND;TZID=Asia/Yekaterinburg:20260925T153000
+SUMMARY:Стандарт\, сертиф и техн докум (Л)[5]\nК
+ оваленко Д.Р.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Коваленко Д.Р.\nАудитори
+ я: Аудитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Стандарт\, сертиф и техн докум (Л)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260925-p5-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T154500
+DTEND;TZID=Asia/Yekaterinburg:20260925T171500
+SUMMARY:Эконом отрасли (Л)[7]\nСемёнова Т.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Семёнова Т.А.\nАудитория:
+  Аудитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Эконом отрасли (Л)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260925-p6-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T172500
+DTEND;TZID=Asia/Yekaterinburg:20260925T185500
+SUMMARY:Кружок "3D Моделирование"[4]\nКоваленко
+  Д.Р.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Коваленко Д.Р.\nАудитори
+ я: Аудитория 4
+LOCATION:Аудитория 4
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Кружок "3D Моделирование"[4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260926-p5-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T154500
+DTEND;TZID=Asia/Yekaterinburg:20260926T171500
+SUMMARY:Системное программирование + отрабо
+ тка (Л)[7]\nКузнецов А.Н.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Кузнецов А.Н.\nАудитория:
+  Аудитория 7\nТип: Отработка
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Системное программирование + отра
+ ботка (Л)[7]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260926-p6-ИСиП-23/1-Лист1@skp-rasp.ru
+DTSTAMP:20260919T124615Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T172500
+DTEND;TZID=Asia/Yekaterinburg:20260926T185500
+SUMMARY:Технология разработки программного 
+ обеспечения +отработка (Л)[5]\nКузнецов А.Н
+ .
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ИСиП-23/1
+ \nПреподаватель: Кузнецов А.Н.\nАудитория:
+  Аудитория 5\nТип: Отработка
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Технология разработки программно
+ го обеспечения +отработка (Л)[5]
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
