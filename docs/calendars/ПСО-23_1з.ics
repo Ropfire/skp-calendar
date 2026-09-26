@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SKP Schedule Sync//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание ПСО-23/1з
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:skp-20260928-p5-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T154500
+DTEND;TZID=Asia/Yekaterinburg:20260928T171500
+SUMMARY:Психология социально-правовой деяте
+ льности (Л)[11]\nМалова М.С.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Малова М.С.\nАудитория: А
+ удитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Психология социально-правовой дея
+ тельности (Л)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260928-p6-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T172500
+DTEND;TZID=Asia/Yekaterinburg:20260928T185500
+SUMMARY:Организация работы органов и учрежд
+ ений соц.защиты (П)[11]\nСемёнова Т.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Семёнова Т.А.\nАудитория:
+  Аудитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Организация работы органов и учре
+ ждений соц.защиты (П)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260929-p1-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T083000
+DTEND;TZID=Asia/Yekaterinburg:20260929T100000
+SUMMARY:Право социального обеспечения (Л)[14]\n
+ Семёнова Т.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Семёнова Т.А.\nАудитория:
+  Аудитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Право социального обеспечения (Л)[1
+ 4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260929-p2-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T101500
+DTEND;TZID=Asia/Yekaterinburg:20260929T114500
+SUMMARY:Право социального обеспечения (Л)[14]\n
+ Семёнова Т.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Семёнова Т.А.\nАудитория:
+  Аудитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Право социального обеспечения (Л)[1
+ 4]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260930-p5-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T154500
+DTEND;TZID=Asia/Yekaterinburg:20260930T171500
+SUMMARY:Организация работы органов и учрежд
+ ений соц.защиты (П)[1]\nСемёнова Т.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Семёнова Т.А.\nАудитория:
+  Аудитория 1
+LOCATION:Аудитория 1
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Организация работы органов и учре
+ ждений соц.защиты (П)[1]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20260930-p6-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T172500
+DTEND;TZID=Asia/Yekaterinburg:20260930T185500
+SUMMARY:Организация работы органов и учрежд
+ ений соц.защиты (П)[12]\nСемёнова Т.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Семёнова Т.А.\nАудитория:
+  Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Организация работы органов и учре
+ ждений соц.защиты (П)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261001-p5-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T154500
+DTEND;TZID=Asia/Yekaterinburg:20261001T171500
+SUMMARY:Право социального обеспечения (П)[7]\n
+ Семёнова Т.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Семёнова Т.А.\nАудитория:
+  Аудитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Право социального обеспечения (П)[7
+ ]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261001-p6-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T172500
+DTEND;TZID=Asia/Yekaterinburg:20261001T185500
+SUMMARY:Право социального обеспечения (Л)[7]\n
+ Семёнова Т.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Семёнова Т.А.\nАудитория:
+  Аудитория 7
+LOCATION:Аудитория 7
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Право социального обеспечения (Л)[7
+ ]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261002-p1-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T083000
+DTEND;TZID=Asia/Yekaterinburg:20261002T100000
+SUMMARY:Римское право (Л)\nСемёнова Т.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Семёнова Т.А.\nФормат: Ви
+ део-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Римское право (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261002-p2-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T101500
+DTEND;TZID=Asia/Yekaterinburg:20261002T114500
+SUMMARY:Римское право (Л)\nСемёнова Т.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Семёнова Т.А.\nФормат: Ви
+ део-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Римское право (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261003-p1-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T083000
+DTEND;TZID=Asia/Yekaterinburg:20261003T100000
+SUMMARY:Статистика (Л)\nАлпаева В.В.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Алпаева В.В.\nФормат: Вид
+ ео-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Статистика (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261003-p2-ПСО-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20260926T132905Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T101500
+DTEND;TZID=Asia/Yekaterinburg:20261003T114500
+SUMMARY:Статистика (П)\nАлпаева В.В.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПСО-23/1з
+ \nПреподаватель: Алпаева В.В.\nФормат: Вид
+ ео-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Статистика (П)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
