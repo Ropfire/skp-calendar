@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SKP Schedule Sync//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание ПД-23/1з
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:skp-20261019-p2-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T101500
+DTEND;TZID=Asia/Yekaterinburg:20261019T114500
+SUMMARY:Уголовн испол право (Л)[5]\nИванов В.Б.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/1з\n
+ Преподаватель: Иванов В.Б.\nАудитория: Ау
+ дитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовн испол право (Л)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261019-p3-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
+DTEND;TZID=Asia/Yekaterinburg:20261019T133000
+SUMMARY:Криминология и предупр преступлений
+  (Л)[11]\nИванов В.Б.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/1з\n
+ Преподаватель: Иванов В.Б.\nАудитория: Ау
+ дитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Криминология и предупр преступлен
+ ий (Л)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261020-p5-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T154500
+DTEND;TZID=Asia/Yekaterinburg:20261020T171500
+SUMMARY:Спец техника (Л)[14]\nИванов В.Б.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/1з\n
+ Преподаватель: Иванов В.Б.\nАудитория: Ау
+ дитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Спец техника (Л)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261020-p6-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T172500
+DTEND;TZID=Asia/Yekaterinburg:20261020T185500
+SUMMARY:Экологическое право (Л)[11]\nХасанова М
+ .Н.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/1з\n
+ Преподаватель: Хасанова М.Н.\nАудитория: 
+ Аудитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Экологическое право (Л)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261021-p1-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T083000
+DTEND;TZID=Asia/Yekaterinburg:20261021T100000
+SUMMARY:Физкультура (Л)[12]\nПатраков А.И.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ПД-23/1з\n
+ Преподаватель: Патраков А.И.\nАудитория: 
+ Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Физкультура (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261021-p2-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T101500
+DTEND;TZID=Asia/Yekaterinburg:20261021T114500
+SUMMARY:Криминалистика (Л)[14]\nПермяков А.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ПД-23/1з\n
+ Преподаватель: Пермяков А.А.\nАудитория: 
+ Аудитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Криминалистика (Л)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261022-p4-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T140000
+DTEND;TZID=Asia/Yekaterinburg:20261022T153000
+SUMMARY:Уголовный процесс (КП)[14]\nПермяков А.
+ А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/1з\n
+ Преподаватель: Пермяков А.А.\nАудитория: 
+ Аудитория 14
+LOCATION:Аудитория 14
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовный процесс (КП)[14]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261022-p5-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T154500
+DTEND;TZID=Asia/Yekaterinburg:20261022T171500
+SUMMARY:Семейное право (Л)[11]\nКустикова И.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/1з\n
+ Преподаватель: Кустикова И.А.\nАудитория:
+  Аудитория 11
+LOCATION:Аудитория 11
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Семейное право (Л)[11]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261023-p3-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T120000
+DTEND;TZID=Asia/Yekaterinburg:20261023T133000
+SUMMARY:Спец техника (Л)[12]\nИванов В.Б.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ПД-23/1з\n
+ Преподаватель: Иванов В.Б.\nАудитория: Ау
+ дитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Спец техника (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261023-p4-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T140000
+DTEND;TZID=Asia/Yekaterinburg:20261023T153000
+SUMMARY:Уголовн испол право (Л)[15]\nИванов В.Б.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ПД-23/1з\n
+ Преподаватель: Иванов В.Б.\nАудитория: Ау
+ дитория 15
+LOCATION:Аудитория 15
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовн испол право (Л)[15]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261023-p5-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T154500
+DTEND;TZID=Asia/Yekaterinburg:20261023T171500
+SUMMARY:Семейное право (Л)[5]\nКустикова И.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/1з\n
+ Преподаватель: Кустикова И.А.\nАудитория:
+  Аудитория 5
+LOCATION:Аудитория 5
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Семейное право (Л)[5]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261024-p5-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T154500
+DTEND;TZID=Asia/Yekaterinburg:20261024T171500
+SUMMARY:Семейное право (Л)[12]\nКустикова И.А.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ПД-23/1з\n
+ Преподаватель: Кустикова И.А.\nАудитория:
+  Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Семейное право (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261024-p6-ПД-23/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261015T134742Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T172500
+DTEND;TZID=Asia/Yekaterinburg:20261024T185500
+SUMMARY:Криминалистика (Л)[12]\nПермяков А.А.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ПД-23/1з\n
+ Преподаватель: Пермяков А.А.\nАудитория: 
+ Аудитория 12
+LOCATION:Аудитория 12
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Криминалистика (Л)[12]
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
