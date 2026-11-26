@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SKP Schedule Sync//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание ЮР-24/1з
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:skp-20261130-p1-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T083000
+DTEND;TZID=Asia/Yekaterinburg:20261130T100000
+SUMMARY:ДОУ (Л)\nМалова М.С.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Малова М.С.\nФормат: Видео-
+ лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ДОУ (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261130-p2-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T101500
+DTEND;TZID=Asia/Yekaterinburg:20261130T114500
+SUMMARY:Семейное право (Л)\nКустикова И.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Кустикова И.А.\nФормат: Ви
+ део-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Семейное право (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261201-p1-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T083000
+DTEND;TZID=Asia/Yekaterinburg:20261201T100000
+SUMMARY:ДОУ (Л)\nМалова М.С.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Малова М.С.\nФормат: Видео-
+ лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ДОУ (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261201-p2-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T101500
+DTEND;TZID=Asia/Yekaterinburg:20261201T114500
+SUMMARY:Семейное право (Л)\nКустикова И.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Кустикова И.А.\nФормат: Ви
+ део-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Семейное право (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261202-p1-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T083000
+DTEND;TZID=Asia/Yekaterinburg:20261202T100000
+SUMMARY:Семейное право (Л)\nКустикова И.А.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Кустикова И.А.\nФормат: Ви
+ део-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Семейное право (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261202-p2-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T101500
+DTEND;TZID=Asia/Yekaterinburg:20261202T114500
+SUMMARY:Судоус-во и ПО (Л)\nКустикова И.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Кустикова И.А.\nФормат: Ви
+ део-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Судоус-во и ПО (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261202-p3-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T120000
+DTEND;TZID=Asia/Yekaterinburg:20261202T133000
+SUMMARY:Пересдача по дисциплине История Рос
+ сии\nЗавьялова И.Е.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Завьялова И.Е.\nФормат: Ви
+ део-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Пересдача по дисциплине История Р
+ оссии
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261203-p1-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T083000
+DTEND;TZID=Asia/Yekaterinburg:20261203T100000
+SUMMARY:ДОУ (Л)\nМалова М.С.
+DESCRIPTION:Пара: 1 пара (08:30-10:00)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Малова М.С.\nФормат: Видео-
+ лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ДОУ (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261203-p2-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T101500
+DTEND;TZID=Asia/Yekaterinburg:20261203T114500
+SUMMARY:ДОУ (Л)\nМалова М.С.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Малова М.С.\nФормат: Видео-
+ лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ДОУ (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261203-p4-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T140000
+DTEND;TZID=Asia/Yekaterinburg:20261203T153000
+SUMMARY:Пересдача по дисциплине Математика\n
+ Алпаева В.В.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Алпаева В.В.\nФормат: Виде
+ о-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Пересдача по дисциплине Математик
+ а
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261204-p4-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T140000
+DTEND;TZID=Asia/Yekaterinburg:20261204T153000
+SUMMARY:Уголовное право + пересдача по дисци
+ плине констит. право (Л)\nПермяков А.А.
+DESCRIPTION:Пара: 4 пара (14:00-15:30)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Пермяков А.А.\nФормат: Вид
+ ео-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Уголовное право + пересдача по дис
+ циплине констит. право (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261204-p5-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T154500
+DTEND;TZID=Asia/Yekaterinburg:20261204T171500
+SUMMARY:БЖ (Л)\nПатраков А.И.
+DESCRIPTION:Пара: 5 пара (15:45-17:15)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Патраков А.И.\nФормат: Вид
+ ео-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:БЖ (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261204-p6-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T172500
+DTEND;TZID=Asia/Yekaterinburg:20261204T185500
+SUMMARY:БЖ (Л)\nПатраков А.И.
+DESCRIPTION:Пара: 6 пара (17:25-18:55)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Патраков А.И.\nФормат: Вид
+ ео-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:БЖ (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261205-p2-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T101500
+DTEND;TZID=Asia/Yekaterinburg:20261205T114500
+SUMMARY:Судоус-во и ПО (Л)\nКустикова И.А.
+DESCRIPTION:Пара: 2 пара (10:15-11:45)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Кустикова И.А.\nФормат: Ви
+ део-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Судоус-во и ПО (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:skp-20261205-p3-ЮР-24/1з-Лист1@skp-rasp.ru
+DTSTAMP:20261126T114224Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T120000
+DTEND;TZID=Asia/Yekaterinburg:20261205T133000
+SUMMARY:Семейное право (Л)\nКустикова И.А.
+DESCRIPTION:Пара: 3 пара (12:00-13:30)\nГруппа: ЮР-24/1з\n
+ Преподаватель: Кустикова И.А.\nФормат: Ви
+ део-лекция
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Семейное право (Л)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
